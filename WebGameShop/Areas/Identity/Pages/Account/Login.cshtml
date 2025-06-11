@@ -1,0 +1,74 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<style>
+    [id^="jarallax-container"] {
+        display: none !important;
+    }
+</style>
+
+<div class="row min-vh-100 justify-content-center align-items-center"
+     style="position: relative; overflow: hidden; width: 100vw; height: 100vh;">
+
+    <!-- Video nền -->
+    <video autoplay muted loop playsinline
+           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
+        <source src="/assets/images/blackmythwukong1.mp4" type="video/mp4" />
+    </video>
+
+    <div class="col-md-4">
+        <form id="account" method="post"
+              style="background: rgba(255, 255, 255, 0.25); backdrop-filter: blur(8px); padding: 32px; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+
+            <h1 style="text-align: center; color: #fff; font-weight: bold; margin-bottom: 16px;">Đăng Nhập</h1>
+            <h2 style="text-align: center; color: #fff; font-size: 20px; margin-bottom: 24px;">Sử dụng tài khoản đã đăng ký để đăng nhập</h2>
+            <hr style="background: #fff;" />
+
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Email" class="form-control"
+                       autocomplete="username" aria-required="true" placeholder="name@example.com"
+                       style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; border-radius: 50px;" />
+                <label asp-for="Input.Email">Email</label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Password" class="form-control"
+                       autocomplete="current-password" aria-required="true" placeholder="password"
+                       style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; border-radius: 50px;" />
+                <label asp-for="Input.Password">Password</label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+            <div class="checkbox mb-3" style="color: #fff;">
+                <label asp-for="Input.RememberMe">
+                    <input class="form-check-input" asp-for="Input.RememberMe" />
+                    @Html.DisplayNameFor(m => m.Input.RememberMe)
+                </label>
+            </div>
+
+            <div>
+                <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary"
+                        style="background-color: #171a21 !important; border-radius: 50px;">
+                    <span style=""> Đăng Nhập</span>
+                </button>
+            </div>
+
+            <div style="margin-top: 16px;">
+                <p><a id="forgot-password" asp-page="./ForgotPassword" style="color: #fff;">Forgot your password?</a></p>
+                <p><a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" style="color: #fff;">Register as a new user</a></p>
+                <p><a id="resend-confirmation" asp-page="./ResendEmailConfirmation" style="color: #fff;">Resend email confirmation</a></p>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,87 @@
+﻿@model WebGameShop.Models.Contact
+
+<section class="form7 cid-tsJ8wGtENs" id="form7-q"
+         style="position: relative; overflow: hidden; width: 100vw; height: 100vh;">
+
+
+
+    <div style="position: absolute; top: 0; left: 0; height: 100%; width: 100%;
+                background-color: rgba(0,0,0,0.4); backdrop-filter: blur(2px); z-index: 0;">
+        <video autoplay muted loop playsinline
+               style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
+            <source src="/assets/images/blackmythwukong3.mp4" type="video/mp4" />
+        </video>
+    </div>
+
+    <div class="container" style="position: relative; z-index: 1;">
+        <div class="mbr-section-head">
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong style="color: black !important;">Liên hệ</strong>
+            </h3>
+        </div>
+        <div class="row justify-content-center mt-4">
+            <div class="col-lg-8 mx-auto mbr-form"
+                 style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px); padding: 32px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+
+                <form asp-controller="Contact" asp-action="Send" method="post" class="mbr-form form-with-styler mx-auto"
+                      style="background: rgba(255, 255, 255, 0.0); border-radius: 12px; padding: 0; box-shadow: none;">
+
+                    @Html.AntiForgeryToken()
+
+                    <p class="mbr-text mbr-fonts-style align-center mb-4 display-7"
+                       style="color: #000; font-weight: 500;">
+                        Một thành viên trong nhóm của chúng tôi sẽ sớm liên hệ với bạn.
+                    </p>
+
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="dragArea row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group mb-3">
+                            <input asp-for="Name" type="text" class="form-control"
+                                   placeholder="Tên Của Bạn"
+                                   style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; backdrop-filter: blur(3px);" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group mb-3">
+                            <input asp-for="Email" type="email" class="form-control"
+                                   placeholder="Email của bạn..."
+                                   style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; backdrop-filter: blur(3px);" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group mb-3">
+                            <textarea asp-for="Message" class="form-control" rows="5"
+                                      placeholder="Lời góp ý của bạn"
+                                      style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; backdrop-filter: blur(3px);"></textarea>
+                            <span asp-validation-for="Message" class="text-danger"></span>
+                        </div>
+
+                        <div class="" style="text-align: center;">
+                            <button type="submit"
+                                    style="background: white; width: 200px; height: 50px; border-radius: 20px; border: none; font-weight: bold;">
+                                <span style="color: black !important;">Gửi Phản Hồi</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    @if (ViewBag.SuccessMessage != null)
+                    {
+                        <div class="alert alert-success mt-4 text-center">@ViewBag.SuccessMessage</div>
+                    }
+                    @if (ViewBag.ErrorMessage != null)
+                    {
+                        <div class="alert alert-danger mt-4 text-center">@ViewBag.ErrorMessage</div>
+                    }
+
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

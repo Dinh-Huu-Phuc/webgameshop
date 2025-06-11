@@ -1,0 +1,55 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "";
+}
+
+<div class="full-page-container" style="position: relative; overflow: hidden; width: 100vw; height: 100vh ">
+
+    <video autoplay muted loop playsinline
+           style="position: absolute; top: 0; left: 0; min-width: 100%; min-height: 100%; object-fit: cover; z-index: -1">
+        <source src="/assets/images/blackmythwukong.mp4" type=video/mp4 />
+    </video>
+
+    <h1 style="display:flex; align-items:center; justify-content: center;">@ViewData["Title"]</h1>
+    <div class="row min-vh-100 justify-content-center align-items-center"
+         style="">
+        <div class="col-md-4">
+            <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post"
+                  style="background: rgba(255,255,255,0); backdrop-filter: blur(8px); padding: 32px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.1);">
+                <h1 style="text-align: center; color: #fff; font-weight: bold; margin-bottom: 16px;">Đăng Ký</h1>
+                <h2 style="color: white !important; text-align: center;">Tạo tài khoản mới.</h2>
+                <hr />
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Name" class="form-control" aria-required="true" placeholder="Tên của bạn" style="opacity: 0.5; border-radius: 50px;" />
+                    <label asp-for="Input.Name">Tên</label>
+                    <span asp-validation-for="Input.Name" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" style="opacity: 0.5; border-radius: 50px;" />
+                    <label asp-for="Input.Email">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" style="opacity: 0.5; border-radius: 50px;" />
+                    <label asp-for="Input.Password">Password</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" style="opacity: 0.5; border-radius: 50px;" />
+                    <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+                <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary"
+                        style="background-color: #171a21 !important; color: white !important; border-radius: 50px;">
+                    Đăng Ký
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

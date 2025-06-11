@@ -1,0 +1,163 @@
+﻿@model IEnumerable<ShoppingcartItem>
+
+@if (Model.Count() != 0)
+{
+    <section class="h-100 h-custom" style="background-color: #171a21;">
+        <div class="container py-5 h-100" style="display: flex; justify-content: center; align-items: center; background-color: #171a21;">
+            <div class="row" style="width: 100%; max-width: 800px; display: flex; flex-direction: column; align-items: center;">
+                <div class="col-12">
+                    <div class="card card-registration card-registration-2" style="border-radius: 15px; background-color: #fafafa; width: 100%;">
+                        <div class="card-body p-0">
+                            <div class="row g-0" style="flex-direction: column; align-items: center; background-color: #171a21;">
+                                <div class="col-lg-7" style="width: 100%;">
+                                    <div class="p-5">
+                                        <div class="d-flex justify-content-between align-items-center mb-5">
+                                            <h2 class="fw-bold mb-0" style="color: white;">Giỏ Hàng</h2>
+                                            <h6 class="mb-0" style="color: white;">@Model.Count() sản phẩm</h6>
+                                        </div>
+
+                                        <hr class="my-4" style="border-color: #555;" />
+
+                                        @foreach (var item in Model)
+                                        {
+                                            <div class="row mb-4 d-flex align-items-center" style="width: 100%;">
+                                                <div class="col-md-2">
+                                                    <img src="@item.Product.ImageUrl" class="img-fluid rounded-3" />
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <h6 class="mb-0" style="color: white;">@item.Qty x @item.Product.Name</h6>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="d-flex align-items-center">
+                                                        <button type="button"
+                                                                style="width:32px;height:32px;border:none;background:#eee;border-radius:6px;font-size:20px;cursor:pointer;"
+                                                                onclick="changeQty(this, -1)">
+                                                            -
+                                                        </button>
+                                                        <input type="text"
+                                                               value="@item.Qty"
+                                                               readonly
+                                                               style="width:38px;text-align:center;margin:0 8px;border:none;background:transparent;font-weight:bold;font-size:16px; color: white;"
+                                                               class="qty-input" />
+                                                        <button type="button"
+                                                                style="width:32px;height:32px;border:none;background:#eee;border-radius:6px;font-size:20px;cursor:pointer;"
+                                                                onclick="changeQty(this, 1)">
+                                                            +
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <h6 class="mb-0 item-total" data-price="@item.Product.Price" style="color: white;">
+                                                        @((item.Qty * item.Product.Price).ToString("C"))
+                                                    </h6>
+                                                </div>
+
+                                                <div class="col-md-1 text-end">
+                                                    <a asp-controller="ShoppingCart" asp-action="RemoveFromShoppingCart" asp-route-pId="@item.Product.Id" class="text-decoration-none">
+                                                        <h3 style="color: white;">🗑</h3>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        }
+
+                                        <hr class="my-4" style="border-color: #555;" />
+
+                                        <div class="pt-5">
+                                            <h6 class="mb-0" style="color: white;">
+                                                <a asp-controller="Product" asp-action="Shop" style="color: white;">
+                                                    <i class="fas fa-long-arrow-alt-left me-2"></i>Trở lại shop
+                                                </a>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-5 bg-grey" style="width: 100%;">
+                                    <div class="p-5">
+                                        <h4 class="fw-bold mb-5 mt-2 pt-1" style="color: white;">Bảng Thanh Toán</h4>
+                                        <hr class="my-4" style="border-color: #555;" />
+                                        <div class="d-flex justify-content-between mb-5">
+                                            <h5 class="text-uppercase" style="color: white;">Tổng Giá</h5>
+                                            <h5 id="cart-total" style="color: white;">$0.00</h5>
+                                        </div>
+
+                                        <a asp-controller="Orders" asp-action="Checkout">
+                                            <button type="button"
+                                                    class="btn w-100 text-center"
+                                                    style="background-color: black; color: white;"
+                                                    data-mdb-ripple-color="dark">
+                                                Bắt Đầu Thanh Toán
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        function changeQty(button, delta) {
+            const container = button.parentElement;
+            const qtyInput = container.querySelector(".qty-input");
+            let currentQty = parseInt(qtyInput.value);
+            if (isNaN(currentQty)) currentQty = 1;
+
+            currentQty += delta;
+            if (currentQty < 1) currentQty = 1;
+
+            qtyInput.value = currentQty;
+
+            // Cập nhật giá từng item
+            const row = button.closest(".row");
+            const itemTotalElement = row.querySelector(".item-total");
+            const price = parseFloat(itemTotalElement.getAttribute("data-price"));
+            const newItemTotal = currentQty * price;
+            itemTotalElement.innerText = newItemTotal.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+
+            // Cập nhật tổng
+            updateCartTotal();
+        }
+
+        function updateCartTotal() {
+            let total = 0;
+            document.querySelectorAll(".item-total").forEach(item => {
+                let value = parseFloat(item.innerText.replace(/[^0-9.-]+/g,""));
+                total += value;
+            });
+            document.getElementById("cart-total").innerText = total.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            updateCartTotal();
+        });
+    </script>
+}
+else
+{
+    <br />
+    <br />
+    <div class="container-fluid" style="background-color: #171a21; min-height: 100vh; width: 100%; padding: 0; margin: 0;">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+        <div class="text-center" style="background-color: #171a21; min-height: 100vh; width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: 'Roboto', sans-serif;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUf6pvR5z36DqViBDNWQW5uJXoy_ljTDCiw&s" class="img-fluid" style="width: 200px; height: 200px; margin-left: auto; margin-right: auto" alt="...">
+            <br>
+            <h1 style="color: white; font-family: 'Roboto', sans-serif;"><strong>Bạn chưa có Sản phẩm hãy thêm sản phẩm</strong></h1>
+            <br>
+            <p style="color: white; font-family: 'Roboto', sans-serif;">
+                Trước khi tiến hành thanh toán, bạn phải thêm một số sản phẩm vào giỏ hàng. Bạn sẽ tìm thấy rất nhiều sản phẩm thú vị trên trang "Cửa hàng" của chúng tôi.
+            </p>
+            <button style="background-color: white; color: black; height: 50px; width: 170px; border-radius: 20px; border: none; font-family: 'Roboto', sans-serif;">
+                <a asp-controller="Product" asp-action="Shop" style="color: black; font-weight: bold; text-decoration: none; display: block; width: 100%; height: 100%; padding: 12px 0; text-align: center; font-family: 'Roboto', sans-serif;">
+                    Đi mua sắm thôi nào
+                </a>
+            </button>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+}

@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebGameShop.liesc6j4xr.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\animation.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\animation.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\dropdown\\css\\style.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "PackagePath": "staticwebassets\\assets\\dropdown\\js\\navbar-dropdown.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "PackagePath": "staticwebassets\\assets\\formoid\\formoid.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\blackmythwukong.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong1.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\blackmythwukong1.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong3.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\blackmythwukong3.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\hashes.json",
+      "PackagePath": "staticwebassets\\assets\\images\\hashes.json"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "PackagePath": "staticwebassets\\assets\\mobirise\\css\\mbr-additional.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.css",
+      "PackagePath": "staticwebassets\\assets\\parallax\\jarallax.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.js",
+      "PackagePath": "staticwebassets\\assets\\parallax\\jarallax.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\assets\\smoothscroll\\smooth-scroll.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\socicon\\css\\styles.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.eot"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.svg"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.ttf"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.woff"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.woff2"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\theme\\css\\style.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\js\\script.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\ytplayer\\index.js",
+      "PackagePath": "staticwebassets\\assets\\ytplayer\\index.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebGameShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebGameShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebGameShop.props",
+      "PackagePath": "build\\WebGameShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebGameShop.props",
+      "PackagePath": "buildMultiTargeting\\WebGameShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebGameShop.props",
+      "PackagePath": "buildTransitive\\WebGameShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

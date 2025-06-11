@@ -1,0 +1,213 @@
+﻿@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var cartCount = HttpContextAccessor
+        ?.HttpContext
+        ?.Session
+        .GetInt32("CartCount") ?? 0;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="Mobirise v5.7.8, mobirise.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="shortcut icon" href="~/assets/images/logo.png" type="image/x-icon">
+    <meta name="description" content="">
+
+    <title>Game Shop</title>
+    <link rel="stylesheet" href="~/assets/web/assets/mobirise-icons2/mobirise2.css">
+    <link rel="stylesheet" href="~/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
+    <link rel="stylesheet" href="~/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/bootstrap/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="~/assets/bootstrap/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="~/assets/parallax/jarallax.css">
+    <link rel="stylesheet" href="~/assets/dropdown/css/style.css">
+    <link rel="stylesheet" href="~/assets/socicon/css/styles.css">
+    <link rel="stylesheet" href="~/assets/theme/css/style.css">
+    <link rel="stylesheet" href="~/assets/bootstrap/css/animation.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preload"
+          href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"
+          as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet"
+              href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap">
+    </noscript>
+    <link rel="preload" as="style" href="~/assets/mobirise/css/mbr-additional.css">
+    <link rel="stylesheet" href="~/assets/mobirise/css/mbr-additional.css" type="text/css">
+</head>
+
+<body style="background-color: #171a21; margin: 0; padding: 0;">
+    <section data-bs-version="5.1" class="menu menu3 cid-tsEQosCCDP" once="menu" id="menu3-0" style="background-color: #171a21;">
+        <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg" style="background-color: #171a21">
+            <div class="container" style="background-color: #171a21;">
+                <div class="navbar-brand">
+                    <span class="navbar-logo">
+                        <a asp-controller="Home" asp-action="Index">
+                            <img src="~/assets/images/logo.png" alt="Game Shop"
+                                 style="height: 3rem; border-radius: 20px;">
+                        </a>
+                    </span>
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
+                        data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"
+                        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <div class="hamburger">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent" style="background-color: #171a21">
+                    <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true" style="color: white;">
+                        <li class="nav-item">
+                            <a class="nav-link link text-black show display-4" style="color: white !important;"
+                               asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link text-black show display-4" style="color: white !important;"
+                               asp-controller="Product" asp-action="Shop">Shop</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link text-black show display-4" style="color: white !important;"
+                               asp-controller="Contact" asp-action="Index">Liên Hệ</a>
+                        </li>
+                        <partial name="_LoginPartial"></partial>
+                        <li class="nav-item">
+                            <a class="nav-link link text-black show display-4" style="color: white !important;" asp-controller="ShoppingCart" asp-action="Index">
+                                <span class="mobi-mbri mobi-mbri-shopping-bag mbr-iconfont mbr-iconfont-btn"><small style="color: white !important;">(@cartCount)</small></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </section>
+    @RenderBody()
+    <section style="background: #171a21; color: #fff; padding: 40px 0 0 0; font-family: 'Segoe UI', Arial, sans-serif;">
+        <div style="max-width:1200px; margin:auto; padding:0 15px;">
+            <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #444; padding-bottom: 30px;">
+                <!-- Logo và đăng ký nhận tin -->
+                <div style="flex:1 1 320px; min-width:320px; margin-bottom:30px;">
+                    <img src="~/assets/images/logo.png" alt="Cosmic Game Universe" style="width:230px; border-radius:16px; display:block; margin-bottom:20px;">
+                    <div>
+                        <span style="font-weight:700; font-size:1.2rem; letter-spacing:1px;">ĐĂNG KÝ NHẬN TIN</span>
+                        <p style="margin:8px 0 16px 0; color:#b0b8c1;">Nhận thông tin mới nhất từ chúng tôi</p>
+                        <form style="display:flex; gap:10px;">
+                            <input type="email" placeholder="Nhập email của bạn" style="padding:10px 16px; width: 250px; border-radius:20px; border:none; outline:none; flex:1;">
+                            <button type="submit" style="background:#e53935; color:#fff; border:none; border-radius:20px; padding:10px 15px; width: 250px; font-weight:600; cursor:pointer;">ĐĂNG KÝ →</button>
+                        </form>
+                    </div>
+                </div>
+                <!-- Về chúng tôi -->
+                <div style="flex:1 1 200px; min-width:180px; margin-bottom:30px;">
+                    <h4 style="color:#fff; font-size:1.1rem; font-weight:700; margin-bottom:15px; border-bottom:2px solid #e53935; display:inline-block;">VỀ CHÚNG TÔI</h4>
+                    <p style="color:#b0b8c1; font-size:0.95rem;">Tần Thủy Hoàng Comic Game Universe là thương hiệu được thành lập vào năm 2025 với tiêu chí chất lượng GAME đặt lên hàng đầu.</p>
+                    <div style="margin-top:12px;">
+                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem;"><i class="fab fa-facebook-f"></i> <span style="font-family:Arial;">&#xf09a;</span></a>
+                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem;"><i class="fab fa-twitter"></i> <span style="font-family:Arial;">&#xf099;</span></a>
+                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem;"><i class="fab fa-linkedin-in"></i> <span style="font-family:Arial;">&#xf0e1;</span></a>
+                        <a href="#" style="color:#fff; font-size:1.2rem;"><i class="fab fa-whatsapp"></i> <span style="font-family:Arial;">&#xf232;</span></a>
+                    </div>
+                </div>
+                <!-- Liên kết -->
+                <div style="flex:1 1 160px; min-width:150px; margin-bottom:30px;">
+                    <h4 style="color:#fff; font-size:1.1rem; font-weight:700; margin-bottom:15px; border-bottom:2px solid #e53935; display:inline-block;">LIÊN KẾT</h4>
+                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem;">
+                        <li style="margin-bottom:7px;">→ Về chúng tôi</li>
+                        <li style="margin-bottom:7px;">→ Hoàn Tiền</li>
+                        <li style="margin-bottom:7px;">→ Khuyến Mãi</li>
+                        <li style="margin-bottom:7px;">→ Điều khoản</li>
+                        <li style="margin-bottom:7px;">→ Liên hệ</li>
+                        <li style="margin-bottom:7px;">→ Tin tức</li>
+                    </ul>
+                </div>
+                <!-- Game -->
+                <div style="flex:1 1 140px; min-width:130px; margin-bottom:30px;">
+                    <h4 style="color:#fff; font-size:1.1rem; font-weight:700; margin-bottom:15px; border-bottom:2px solid #e53935; display:inline-block;">GAME</h4>
+                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem;">
+                        <li style="margin-bottom:7px;">→ Game Hay</li>
+                        <li style="margin-bottom:7px;">→ Thịnh Hành</li>
+                        <li style="margin-bottom:7px;">→ Bán Chạy</li>
+                        <li style="margin-bottom:7px;">→ Chơi Nhiều</li>
+                        <li style="margin-bottom:7px;">→ Game Khác</li>
+                    </ul>
+                </div>
+                <!-- Liên hệ -->
+                <div style="flex:1 1 220px; min-width:200px; margin-bottom:30px;">
+                    <h4 style="color:#fff; font-size:1.1rem; font-weight:700; margin-bottom:15px; border-bottom:2px solid #e53935; display:inline-block;">LIÊN HỆ</h4>
+                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem;">
+                        <li style="margin-bottom:10px;">
+                            <span style="color:#e53935; margin-right:8px;">&#x1F4CD;</span>
+                            Chung Cư B3 Nguyễn Hoàng<br>Phường 7 Đà Lạt Lâm Đồng
+                        </li>
+                        <li style="margin-bottom:7px;">
+                            <span style="color:#e53935; margin-right:8px;">&#x260E;</span>
+                            0398 743 229<br>0962 076 749
+                        </li>
+                        <li style="margin-bottom:7px;">
+                            <span style="color:#e53935; margin-right:8px;">&#x2709;</span>
+                            phucgp74@gmail.com<br>dinhhuuphuc2302@gmail.com
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div style="text-align:center; color:#b0b8c1; font-size:0.98rem; padding:20px 0 10px 0;">
+                © Copyright 2025 Tân Thùy Hoàng | Tần Thủy Hoàng Cosmic Game Universe
+            </div>
+        </div>
+    </section>
+
+
+    <script src="~/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/parallax/jarallax.js"></script>
+    <script src="~/assets/smoothscroll/smooth-scroll.js"></script>
+    <script src="~/assets/ytplayer/index.js"></script>
+    <script src="~/assets/dropdown/js/navbar-dropdown.js"></script>
+    <script src="~/assets/theme/js/script.js"></script>
+    @await RenderSectionAsync("Scripts", false);
+
+    <script>
+                function changeQty(button, delta) {
+            const container = button.parentElement;
+            const qtyInput = container.querySelector(".qty-input");
+            let currentQty = parseInt(qtyInput.value);
+            if (isNaN(currentQty)) currentQty = 1;
+
+            currentQty += delta;
+            if (currentQty < 1) currentQty = 1;
+
+            qtyInput.value = currentQty;
+
+            // Cập nhật giá từng item
+            const row = button.closest(".row");
+            const itemTotalElement = row.querySelector(".item-total");
+            const price = parseFloat(itemTotalElement.getAttribute("data-price"));
+            const newItemTotal = currentQty * price;
+            itemTotalElement.innerText = newItemTotal.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+
+            // Cập nhật tổng
+            updateCartTotal();
+        }
+
+        function updateCartTotal() {
+            let total = 0;
+            document.querySelectorAll(".item-total").forEach(item => {
+                let value = parseFloat(item.innerText.replace(/[^0-9.-]+/g,""));
+                total += value;
+            });
+            document.getElementById("cart-total").innerText = total.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            updateCartTotal();
+        });
+
+    </script>
+
+</body>
+</html>

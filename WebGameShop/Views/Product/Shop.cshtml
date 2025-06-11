@@ -1,0 +1,49 @@
+﻿@model IEnumerable<WebGameShop.Models.Product>
+<style>
+    #jarallax-container-0 {
+        display: none !important;
+    }
+</style>
+<section data-bs-version="5.1" class="info3 cid-tsEY2vwh5a mbr-parallax-background" id="info3-b" style="position: relative; overflow: hidden; height: 100vh;">
+    <div class="mbr-overlay"
+         style="
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        z-index: -1;
+ ">
+        <video autoplay muted loop playsinline
+               style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+            <source src="/assets/images/blackmythwukong.mp4" type="video/mp4" />
+            Trình duyệt của bạn không hỗ trợ video.
+        </video>
+    </div>
+    <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(0, 0, 0);"></div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="card col-12 col-lg-10">
+                <div class="card-wrapper">
+                    <div class="card-box align-center">
+                        <h4 class="card-title mbr-fonts-style align-center mb-4 display-1">
+                            <strong style="height: 60vh; display: flex; justify-content: center; align-items: center; font-family: 'Roboto';">Shop Game của tớ <br /> Hãy trải nghiệm cùng tớ nào </strong>
+                        </h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="content2 cid-tsEZVFGbrL" id="content2-g" style="background-color: #171a21;">
+    <div class="container">
+        <div class="mbr-section-head">
+            <h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2 display-5" style="color: white">
+                Hãy trải nghiệm game mới của chúng tôi nào
+            </h5>
+        </div>
+        <partial name="_Product"></partial>
+    </div>
+</section> 

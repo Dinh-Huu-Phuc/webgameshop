@@ -1,0 +1,94 @@
+﻿@model IEnumerable<WebGameShop.Models.Product>
+
+<style>
+    #jarallax-container-0 {
+        display: none !important;
+    }
+</style>
+
+<section data-bs-version="5.1" class="header18 cid-tsEQyIZRcx mbr-fullscreen mbr-parallax-background" style="position: relative; height:100vh; overflow: hidden;"
+         id="header18-1">
+    <div class="mbr-overlay"
+         style="
+        position: absolute;
+        opacity:0.9;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        /* background-image: url('https://i.pinimg.com/736x/3e/ef/ac/3eefacc8db99ca14c3c93575709ea008.jpg'); */
+        /* background-repeat: no-repeat; */
+        /* background-size: cover; */
+        /* background-position: center; */
+     ">
+        <video autoplay muted loop playsinline
+               style="position: absolute; top: 0; left: 0; height: 100%; width: 100%; object-fit: cover; z-index: -1">
+            <source src="/assets/images/blackmythwukong.mp4" type="video/mp4" />
+        </video>
+    </div>
+
+    <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(0, 0, 0);"></div>
+    <div class="align-center container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-10">
+                <h1 class="mbr-section-title mbr-fonts-style mbr-white mb-3 display-1">
+                    <strong>
+                        Tần Thủy Hoàng
+                        <br />
+                        Shop Game Của Tớ
+                    </strong>
+                </h1>
+
+                <p class="mbr-text mbr-fonts-style mbr-white display-7">
+                    Mang đến cho bạn những trò chơi mới nhất và tuyệt nhất để tận hưởng niềm vui bất tận.
+                </p>
+                <div class="mbr-section-btn mt-3">
+                    <a class="btn btn-primary display-4" asp-controller="Product" asp-action="Shop" style="background-color: black !important">
+                        <span class="mobi-mbri mobi-mbri-shopping-bag mbr-iconfont mbr-iconfont-btn"></span>Tới Shop&nbsp;
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="content2 cid-tsEQSCqggh" id="content2-2" style="background-color: #171a21;">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <div class="container" style="background-color: #171a21;">
+        <div class="mbr-section-head">
+            <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2" style="color: white;">
+                <strong style="font-family: 'Roboto';">Sản Phẩm Giởi Thiệu Của Chúng Tôi </strong>
+            </h4>
+            <h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2 display-5" style="color: white;">
+            </h5>
+        </div>
+        <div class="row mt-4">
+            @foreach (var item in Model)
+            {
+                <div class="iten features-image col-12 col-md-6 col-lg-4">
+                    <div class="iten-wrapper">
+                        <div class="iten-ing">
+                            <img src="@item.ImageUrl" alt="Game Shop" title="">
+                        </div>
+                        <div class="item-content">
+                            <a asp-controller="Product" asp-action="Detail" asp-route-id="@item.Id">
+                                <h6 class="item-subtitle abr-fonts-style st-1 display-7" style="color: white;">
+                                    <strong>@item.Name</strong>
+                                </h6>
+                            </a>
+                            <p class="abr-text abr-fonts-style mt-3 display-7" style="color: white;">@item.Price.ToString("c")</p>
+                        </div>
+                        <div class="">
+                            <button style="background-color: #171a21 !important; border: 1px solid aqua !important; text-align: center; color: white !important; border-radius: 20px; display: flex; justify-content: center; align-items: center; padding: 10px 20px; text-decoration: none;">
+                                <a asp-controller="Shoppingcart" asp-action="AddToShoppingCart" asp-route-pId="@item.Id" target="self" style="color: white !important; text-decoration: none; display: flex; align-items: center;">
+                                    <span class="mbrib-cart-add mbr-iconfont mbr-iconfont-btn" style="color: white !important; margin-right: 5px;"></span>Thêm Vào Giỏ Hàng
+                                </a>
+                            </button>
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</section>

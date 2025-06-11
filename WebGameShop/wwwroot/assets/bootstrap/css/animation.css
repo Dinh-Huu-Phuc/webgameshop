@@ -1,0 +1,49 @@
+﻿#jarallax-container-0 {
+    display: none !important;
+}
+
+@keyframes colorChange1 {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+@keyframes colorChange2 {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.header18 .mbr-section-title {
+    animation: colorChange1 4s infinite;
+    background: linear-gradient(45deg, #ff0000, #ff8000, #ffff00, #00ff00, #00ffff, #0000ff, #8000ff, #ff00ff, #ff0000);
+    -webkit-background-clip: text; /* Tiền tố cho Chrome, Safari */
+    background-clip: text;
+    color: transparent;
+    -webkit-animation: colorChange1 4s infinite; /* Tiền tố cho animation */
+}
+
+.header18 .mbr-text {
+    animation: colorChange2 6s infinite;
+    background: linear-gradient(45deg, #ff00ff, #00ffff, #00ff00, #ffff00, #ff8000, #ff0000, #8000ff, #0000ff, #ff00ff);
+    -webkit-background-clip: text; /* Tiền tố cho Chrome, Safari */
+    background-clip: text;
+    color: transparent;
+    -webkit-animation: colorChange2 6s infinite; /* Tiền tố cho animation */
+}
