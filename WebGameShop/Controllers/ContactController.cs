@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebGameShop.Data;
 using WebGameShop.Models;
 
 namespace WebGameShop.Controllers
 {
+    [Authorize]
     public class ContactController : Controller
     {
         private readonly WebGameShopDBContext _context;

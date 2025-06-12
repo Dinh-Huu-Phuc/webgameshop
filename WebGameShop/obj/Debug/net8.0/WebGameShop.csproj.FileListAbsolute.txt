@@ -294,3 +294,4 @@ H:\WebGameShop\WebGameShop\obj\Debug\net8.0\refint\WebGameShop.dll
 H:\WebGameShop\WebGameShop\obj\Debug\net8.0\WebGameShop.pdb
 H:\WebGameShop\WebGameShop\obj\Debug\net8.0\WebGameShop.genruntimeconfig.cache
 H:\WebGameShop\WebGameShop\obj\Debug\net8.0\ref\WebGameShop.dll
+H:\WebGameShop\WebGameShop\obj\Debug\net8.0\WebGameShop.sourcelink.json

@@ -24,9 +24,18 @@ namespace WebGameShop.Controllers
         [HttpPost]
         public IActionResult Checkout(Order order)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(order);
+            }
+
+            //lưu đơn hàng
             orderRepository.PlaceOrder(order);
+            // xóa giỏ hàng sau khi đặt
             shoppingCartRepository.ClearCart();
+            //cập nhật số lượng giỏ hàng
             HttpContext.Session.SetInt32("CartCount", 0);
+            //chuyển qua trang hoàn thành
             return RedirectToAction("CheckoutComplete");
         }
 

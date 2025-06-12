@@ -1,17 +1,93 @@
-﻿<div class="container">
-	<br><br><br><br>
-	<div class="text-center">
-		<img src="https://cdn-icons-png.flaticon.com/512/148/148767.png"
-			 class="img-fluid"
-			 style="width: 200px; height: 200px; margin-left: auto;
-margin-right: auto" alt="...">
-		<br>
-		<h1><strong>Your order has been received</strong></h1>
-		<br>
-		<p>Thank you for your purchase !</p>
+﻿<style>
+    html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        /* overflow: hidden; */
+    }
 
-		<a class="btn btn-primary w-20 " asp-controller="Product" asp-action="Shop">
-			Start Shopping Again
-		</a>
-	</div>
+    #icon-color{
+        fill: green;
+        width: 200px;
+        height: 200px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .video-bg {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        object-fit: cover;
+        z-index: -1;
+    }
+
+    .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(2px);
+        z-index: 0;
+    }
+
+    .order-container {
+        position: relative;
+        z-index: 1;
+        padding: 40px 0;
+        text-align: center;
+        color: white;
+        font-family: 'Segoe UI', Arial, sans-serif;
+    }
+
+        .order-container h1 {
+            font-size: 48px;
+            margin: 24px 0;
+        }
+
+        .order-container p {
+            font-size: 20px;
+            margin-bottom: 32px;
+        }
+
+        .order-container .btn {
+            margin: 8px;
+            font-weight: 600;
+            border-radius: 8px;
+        }
+</style>
+
+<!-- Video nền -->
+<video autoplay muted loop playsinline class="video-bg">
+    <source src="/assets/images/blackmythwukong.mp4" type="video/mp4" />
+    Trình duyệt của bạn không hỗ trợ video.
+</video>
+
+<!-- Lớp overlay mờ -->
+<div class="overlay"></div>
+
+<!-- Nội dung confirm order -->
+<div class="container order-container">
+    <img src="https://img.icons8.com/ios11/512/40C057/check-all.png"
+         class="img-fluid"
+         style="width: 200px; height: 200px; margin-left: auto; margin-right: auto;" alt="Order Received">
+
+
+    <h1><strong>THANH TOÁN THÀNH CÔNG <br />HÃY KIỂM TRA EMAIL HOẶC TẢI FILE TRỰC TIẾP</strong></h1>
+
+    <p>Cảm ơn bạn đã tin tưởng và ủng hộ ❤️</p>
+
+    <a href="/path/to/your/gamefile.zip" download class="btn btn-success mb-3" style="width: 200px;">
+        Tải File Game
+    </a>
+
+    <br>
+
+    <a class="btn btn-primary w-20" asp-controller="Product" asp-action="Shop">
+        Start Shopping Again
+    </a>
 </div>
