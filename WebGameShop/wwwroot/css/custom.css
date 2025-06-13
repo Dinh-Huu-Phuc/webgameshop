@@ -1,0 +1,108 @@
+﻿/* Style cho navbar và icon user */
+.navbar-nav {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #171a21;
+    padding: 10px 0;
+    border-radius: 4px;
+    min-width: 160px;
+    z-index: 1000;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block !important;
+}
+
+
+.nav-item.dropdown {
+    position: relative;
+}
+
+.nav-link.dropdown-toggle {
+    color: white !important;
+    cursor: pointer;
+    transition: color 0.3s;
+    display: flex;
+    align-items: center;
+}
+
+    .nav-link.dropdown-toggle:hover {
+        color: #e53935 !important;
+    }
+
+/* Tăng kích thước icon */
+.mbr-iconfont.mbr-iconfont-btn {
+    font-size: 24px !important;
+    margin-left: 5px;
+}
+
+/* Modal custom */
+.custom-modal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #171a21;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    z-index: 1001; /* Tăng z-index để đảm bảo hiển thị trên cùng */
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+    .custom-modal.show {
+        display: flex;
+        animation: fadeIn 0.3s ease-in-out;
+    }
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.custom-modal a {
+    display: block;
+    padding: 10px 20px;
+    color: white !important;
+    background: #e53935;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+    transition: background 0.3s;
+}
+
+    .custom-modal a:hover {
+        background: #d32f2f;
+    }
+
+/* Overlay */
+.modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+    .modal-overlay.show {
+        display: block;
+    }

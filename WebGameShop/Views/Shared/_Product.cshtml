@@ -1,26 +1,49 @@
-﻿<div class="row mt-4" style="background: #171a21;">
+﻿<div class="text-center mb-4">
+    <button class="btn btn-outline-info mx-2" onclick="filterProducts('All')">Tất cả</button>
+    <button class="btn btn-outline-info mx-2" onclick="filterProducts('FPS')">FPS</button>
+    <button class="btn btn-outline-info mx-2" onclick="filterProducts('Hành Động')">Hành Động</button>
+    <button class="btn btn-outline-info mx-2" onclick="filterProducts('Sinh Tồn')">Sinh Tồn</button>
+    <button class="btn btn-outline-info mx-2" onclick="filterProducts('Chiến Thuật')">Chiến Thuật</button>
+    <button class="btn btn-outline-info mx-2" onclick="filterProducts('Giải Trí')">Giải Trí</button>
+</div>
+
+<div class="row mt-4" style="background: #171a21;">
     @foreach (var item in Model)
     {
-        <div class="item features-image сol-12 col-md-6 col-lg-4" style="background-color: #171a21;">
+        <div class="item features-image col-12 col-md-6 col-lg-4"
+             data-category="@item.Category"
+             style="background-color: #171a21;">
             <div class="item-wrapper">
                 <div class="item-img">
-                    <img src="@item.ImageUrl" alt="Coffee Shop" title="">
+                    <img src="@item.ImageUrl" alt="Game Shop" title="">
                 </div>
                 <div class="item-content" style="background-color: #171a21">
-                    <a asp-controller="Product" asp-action="Detail" asp-route-id="@item.Id"
-                       target="_self">
-                        <h6 class="item-subtitle mbr-fonts-style mt-1 display-7">
-                            <strong style="color: white !important;">@item.Name</strong>
-                        </h6>
+                    <a asp-controller="Product" asp-action="Detail" asp-route-id="@item.Id">
+                        <h6 class="item-subtitle" style="color: white; font-family: 'Orbitron'">@item.Name</h6>
                     </a>
-                    <p class="mbr-text mbr-fonts-style mt-3 display-7" style="color: white !important"> @item.Price.ToString("C")</p>
-                </div>
-                <div class="mbr-section-btn item-footer mt-2" style="background-color:#171a21;">
-                    <a asp-controller="Shoppingcart" asp-action="AddToShoppingCart" asp-route-pId="@item.Id" class="btn item-btn btn-primary display-4" target="_self" style="background-color: #171a21 !important; border: 1px solid aqua !important; border-radius: 20px;">
-                        <span class="mbrib-cart-add mbr-iconfont mbr-iconfont-btn">Thêm Vào Giỏ Hàng&nbsp;</span>
-                    </a>
+                    <p style="color: white;">@item.Price.ToString("C")</p>
+                    <button style="border: 1px solid #00ffff !important; text-align: center; color: white !important; border-radius: 20px; display: flex; justify-content: center; align-items: center; padding: 10px 20px; text-decoration: none;" class="game-button">
+                        <a asp-controller="Shoppingcart" asp-action="AddToShoppingCart" asp-route-pId="@item.Id" target="self" style="color: white !important; text-decoration: none; display: flex; align-items: center;">
+                            <span class="mbrib-cart-add mbr-iconfont mbr-iconfont-btn" style="color: white !important; margin-right: 5px;"></span>
+                            <span style="font-family: 'Orbitron', sans-serif;">Thêm Vào Giỏ Hàng</span>
+                        </a>
+                    </button>
                 </div>
             </div>
         </div>
     }
 </div>
+
+<script>
+    function filterProducts(category) {
+        const products = document.querySelectorAll('.item.features-image');
+        products.forEach(item => {
+            if (category === 'All' || item.getAttribute('data-category') === category) {
+                item.style.display = 'block';
+            } else {
+                item.style.display = 'none';
+            }
+        });
+    }
+</script>
+

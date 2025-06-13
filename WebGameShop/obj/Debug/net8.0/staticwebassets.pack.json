@@ -37,6 +37,30 @@
       "PackagePath": "staticwebassets\\assets\\formoid\\formoid.min.js"
     },
     {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\backmythwukong2.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\backmythwukong4.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\backmythwukong5.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\backmythwukong6.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\backmythwukong7.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\backmythwukong8.mp4"
+    },
+    {
       "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner.jpg"
     },
@@ -155,6 +179,18 @@
     {
       "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\ytplayer\\index.js",
       "PackagePath": "staticwebassets\\assets\\ytplayer\\index.js"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+      "PackagePath": "staticwebassets\\css\\customText.css"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+      "PackagePath": "staticwebassets\\css\\custombutton.css"
     },
     {
       "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",

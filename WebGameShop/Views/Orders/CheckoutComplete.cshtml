@@ -59,6 +59,17 @@
             font-weight: 600;
             border-radius: 8px;
         }
+
+    .btn-button-btn:hover {
+        background-color: aqua !important;
+        color: aqua !important;
+        border-radius: 50px;
+    }
+
+    .btn-button-btn-1:hover{
+        color: black !important;
+        border-radius: 50px;
+    }
 </style>
 
 <!-- Video nền -->
@@ -71,7 +82,7 @@
 <div class="overlay"></div>
 
 <!-- Nội dung confirm order -->
-<div class="container order-container">
+<div class="container order-container" style="font-family:'Orbitron', sans-serif;">
     <img src="https://img.icons8.com/ios11/512/40C057/check-all.png"
          class="img-fluid"
          style="width: 200px; height: 200px; margin-left: auto; margin-right: auto;" alt="Order Received">
@@ -81,13 +92,13 @@
 
     <p>Cảm ơn bạn đã tin tưởng và ủng hộ ❤️</p>
 
-    <a href="/path/to/your/gamefile.zip" download class="btn btn-success mb-3" style="width: 200px;">
+    <a href="/path/to/your/gamefile.zip" download class="btn btn-success mb-3 btn-button-btn-1" style="width: 200px;">
         Tải File Game
     </a>
 
     <br>
 
-    <a class="btn btn-primary w-20" asp-controller="Product" asp-action="Shop">
-        Start Shopping Again
+    <a class="btn btn-primary w-20 btn-button-btn" asp-controller="Product" asp-action="Shop" style="background-color: #171a21 !important; height: 50px; border: 1px solid aqua !important;">
+        <span>Quay Lại Mua Sắm Tại Shop</span>
     </a>
 </div>

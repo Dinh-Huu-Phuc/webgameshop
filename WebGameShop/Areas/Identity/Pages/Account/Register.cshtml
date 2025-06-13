@@ -4,11 +4,11 @@
     ViewData["Title"] = "";
 }
 
-<div class="full-page-container" style="position: relative; overflow: hidden; width: 100vw; height: 100vh ">
+<div class="full-page-container" style="position: relative; overflow: hidden; width: 100vw; height: 100vh; font-family: 'Orbitron', sans-serif;">
 
-    <video autoplay muted loop playsinline
+    <video autoplay loop playsinline
            style="position: absolute; top: 0; left: 0; min-width: 100%; min-height: 100%; object-fit: cover; z-index: -1">
-        <source src="/assets/images/blackmythwukong.mp4" type=video/mp4 />
+        <source src="/assets/images/backmythwukong2.mp4" type=video/mp4 />
     </video>
 
     <h1 style="display:flex; align-items:center; justify-content: center;">@ViewData["Title"]</h1>
@@ -27,18 +27,18 @@
                     <span asp-validation-for="Input.Name" class="text-danger"></span>
                 </div>
                 <div class="form-floating mb-3">
-                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" style="opacity: 0.5; border-radius: 50px;" />
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="Email của bạn name@example.com" style="opacity: 0.5; border-radius: 50px;" />
                     <label asp-for="Input.Email">Email</label>
                     <span asp-validation-for="Input.Email" class="text-danger"></span>
                 </div>
                 <div class="form-floating mb-3">
-                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" style="opacity: 0.5; border-radius: 50px;" />
-                    <label asp-for="Input.Password">Password</label>
+                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Nhập Mật Khẩu" style="opacity: 0.5; border-radius: 50px;" />
+                    <label asp-for="Input.Password">Nhập Mật Khẩu</label>
                     <span asp-validation-for="Input.Password" class="text-danger"></span>
                 </div>
                 <div class="form-floating mb-3">
-                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" style="opacity: 0.5; border-radius: 50px;" />
-                    <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Nhập Lại Mật Khẩu" style="opacity: 0.5; border-radius: 50px;" />
+                    <label asp-for="Input.ConfirmPassword">Nhập Lại Mật Khẩu</label>
                     <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
                 </div>
                 <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary"

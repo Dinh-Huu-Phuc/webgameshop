@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B6HvYUbAgBqfWg38AAPqK9J1tYENhIPq4RnKrkM7EdU=",
+  "Hash": "Pvp0Zv4DSNaS18S3EQ/uePr6KjDDxZ3NY6CTJl9uTsY=",
   "Source": "WebGameShop",
   "BasePath": "_content/WebGameShop",
   "Mode": "Default",
@@ -1487,6 +1487,132 @@
       "OriginalItemSpec": "wwwroot\\assets\\formoid\\formoid.min.js"
     },
     {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "assets/images/backmythwukong2#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ilkm0e9b4p",
+      "Integrity": "xllxP9I8PrQqUH4UO2RtDuhmFXFkcIw+ONXugguq5lg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong2.mp4"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "assets/images/backmythwukong4#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tehmnioaj5",
+      "Integrity": "W/+THRjof1rDr6EYOy34KUsDFx/8+guXTdWfrUQlhB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong4.mp4"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "assets/images/backmythwukong5#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "os7vzvu2zt",
+      "Integrity": "yIeXM2um0dvUEi+pvdtHomv4fYTjkscIE743bo4KSeo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong5.mp4"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "assets/images/backmythwukong6#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4mrjabpgfz",
+      "Integrity": "dAcFOKYZWGea15sLEpi60BqlywVHkpngrl2pbjBwUa0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong6.mp4"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "assets/images/backmythwukong7#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lbnmridoik",
+      "Integrity": "kXI/QsSTAfs6myzumNqPHaIOKWRCcskOikV/5OCKKOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong7.mp4"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "assets/images/backmythwukong8#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "osx1sw1mrd",
+      "Integrity": "qPIEUTdCKT/Zfto+9Yz5zAY7s0XCk3HCPoSDRjjcHRs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong8.mp4"
+    },
+    {
       "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
@@ -2115,6 +2241,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\ytplayer\\index.js"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "css/custom#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iwezhlwiu2",
+      "Integrity": "MttEt7qHTDYuLw9o4mJ5mrBq/NeCxEHcS9lcla4EO1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "css/custombutton#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6kqif1pa0v",
+      "Integrity": "CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custombutton.css"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "css/customText#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\customText.css"
     },
     {
       "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",
@@ -4031,6 +4220,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-O+Miv9TZB6evudFK4CE8OrBlmIe78pXJqouSCpN3yc0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong2.ilkm0e9b4p.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4904043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xllxP9I8PrQqUH4UO2RtDuhmFXFkcIw+ONXugguq5lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilkm0e9b4p"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/backmythwukong2.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xllxP9I8PrQqUH4UO2RtDuhmFXFkcIw+ONXugguq5lg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong2.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4904043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xllxP9I8PrQqUH4UO2RtDuhmFXFkcIw+ONXugguq5lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xllxP9I8PrQqUH4UO2RtDuhmFXFkcIw+ONXugguq5lg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong4.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16511017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/+THRjof1rDr6EYOy34KUsDFx/8+guXTdWfrUQlhB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:24:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W/+THRjof1rDr6EYOy34KUsDFx/8+guXTdWfrUQlhB8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong4.tehmnioaj5.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16511017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/+THRjof1rDr6EYOy34KUsDFx/8+guXTdWfrUQlhB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:24:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tehmnioaj5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/backmythwukong4.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W/+THRjof1rDr6EYOy34KUsDFx/8+guXTdWfrUQlhB8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong5.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6079121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yIeXM2um0dvUEi+pvdtHomv4fYTjkscIE743bo4KSeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:42:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yIeXM2um0dvUEi+pvdtHomv4fYTjkscIE743bo4KSeo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong5.os7vzvu2zt.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6079121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yIeXM2um0dvUEi+pvdtHomv4fYTjkscIE743bo4KSeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:42:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "os7vzvu2zt"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/backmythwukong5.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yIeXM2um0dvUEi+pvdtHomv4fYTjkscIE743bo4KSeo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong6.4mrjabpgfz.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3750917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dAcFOKYZWGea15sLEpi60BqlywVHkpngrl2pbjBwUa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:49:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4mrjabpgfz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/backmythwukong6.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dAcFOKYZWGea15sLEpi60BqlywVHkpngrl2pbjBwUa0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong6.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3750917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dAcFOKYZWGea15sLEpi60BqlywVHkpngrl2pbjBwUa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:49:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dAcFOKYZWGea15sLEpi60BqlywVHkpngrl2pbjBwUa0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong7.lbnmridoik.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3747396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kXI/QsSTAfs6myzumNqPHaIOKWRCcskOikV/5OCKKOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:54:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lbnmridoik"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/backmythwukong7.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kXI/QsSTAfs6myzumNqPHaIOKWRCcskOikV/5OCKKOI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong7.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3747396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kXI/QsSTAfs6myzumNqPHaIOKWRCcskOikV/5OCKKOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 05:54:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kXI/QsSTAfs6myzumNqPHaIOKWRCcskOikV/5OCKKOI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong8.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4628160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qPIEUTdCKT/Zfto+9Yz5zAY7s0XCk3HCPoSDRjjcHRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 13:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qPIEUTdCKT/Zfto+9Yz5zAY7s0XCk3HCPoSDRjjcHRs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/backmythwukong8.osx1sw1mrd.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4628160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qPIEUTdCKT/Zfto+9Yz5zAY7s0XCk3HCPoSDRjjcHRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 13:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "osx1sw1mrd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/backmythwukong8.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qPIEUTdCKT/Zfto+9Yz5zAY7s0XCk3HCPoSDRjjcHRs="
         }
       ]
     },
@@ -6491,6 +7172,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-S8bVWTOMHDC7qwXM3BIEDLWhQx6B+dm4Sro6MEYOLIc="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MttEt7qHTDYuLw9o4mJ5mrBq/NeCxEHcS9lcla4EO1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 03:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MttEt7qHTDYuLw9o4mJ5mrBq/NeCxEHcS9lcla4EO1Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.iwezhlwiu2.css",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MttEt7qHTDYuLw9o4mJ5mrBq/NeCxEHcS9lcla4EO1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 03:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwezhlwiu2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MttEt7qHTDYuLw9o4mJ5mrBq/NeCxEHcS9lcla4EO1Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/custombutton.6kqif1pa0v.css",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 13:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6kqif1pa0v"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custombutton.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA="
+        }
+      ]
+    },
+    {
+      "Route": "css/custombutton.css",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 13:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA="
+        }
+      ]
+    },
+    {
+      "Route": "css/customText.3r8b2a0bt1.css",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 17:33:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/customText.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "css/customText.css",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 17:33:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
         }
       ]
     },

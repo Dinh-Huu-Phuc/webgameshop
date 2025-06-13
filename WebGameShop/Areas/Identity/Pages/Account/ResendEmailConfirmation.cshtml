@@ -1,0 +1,35 @@
+﻿@page
+@model ResendEmailConfirmationModel
+@{
+    ViewData["Title"] = "Gửi lại email xác nhận";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Đảm bảo sử dụng layout có header và footer
+}
+
+<!-- Video background -->
+<video autoplay  loop playsinline style="position: fixed; top: 0; left: 0; height: 100%; width: 100%; object-fit: cover; z-index: -1;">
+    <source src="/assets/images/backmythwukong7.mp4" type="video/mp4" />
+</video>
+
+<!-- Nội dung chính -->
+<div style="position: relative; min-height: calc(100vh - 100px); display: flex; justify-content: center; align-items: center; z-index: 1002; font-family: 'Orbitron', sans-serif; padding-top: calc(70px + 20px); padding-bottom: 40px;">
+    <div class="text-center">
+        <h1 style="color: aqua; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); margin-top: 80px;">@ViewData["Title"]</h1>
+        <h2 style="color: aqua; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">Nhập email của bạn.</h2>
+        <hr style="border-color: black;" />
+        <div class="col-md-4">
+            <form method="post">
+                <div asp-validation-summary="All" class="text-danger" role="alert"></div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Email" class="form-control" aria-required="true" placeholder="name@example.com" style="background-color: rgba(255, 255, 255, 0.8); width: 500px; border-radius: 50px;" />
+                    <label asp-for="Input.Email" class="form-label" style="color: black;"></label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <button type="submit" class="w-100 btn btn-lg btn-primary" style="width: 500px !important ;background-color: #171a21 !important; border: 1px solid aqua !important; border-radius: 50px;">Gửi Lại</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

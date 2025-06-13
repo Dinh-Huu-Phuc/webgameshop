@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebGameShop.Models.Interface;
 
 namespace WebGameShop.Controllers
 {
+    [Authorize]
     public class ProductController : Controller
     {
         private IProductRepository productRepository;

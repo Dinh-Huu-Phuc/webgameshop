@@ -1,0 +1,23 @@
+﻿@page
+@model ConfirmEmailModel
+@{
+    ViewData["Title"] = "Confirm email";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Đảm bảo sử dụng layout có header và footer
+}
+
+<!-- Video background -->
+<video autoplay muted loop playsinline style="position: fixed; top: 0; left: 0; height: 100%; width: 100%; object-fit: cover; z-index: -1;">
+    <source src="/assets/images/backmythwukong7.mp4" type="video/mp4" />
+</video>
+
+<!-- Nội dung chính -->
+<div style="position: relative; min-height: calc(100vh - 100px); display: flex; justify-content: center; align-items: center; z-index: 1002; font-family: 'Orbitron', sans-serif; margin-top: 60px;">
+    <div class="text-center">
+        <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">@ViewData["Title"]</h1>
+        <partial name="_StatusMessage" model="Model.StatusMessage" />
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

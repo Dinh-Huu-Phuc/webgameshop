@@ -1,5 +1,5 @@
 ﻿<div class="container-fluid"
-     style="background-color: #171a21; padding: 32px; height: 100vh; display: flex; align-items: center;">
+     style="background-color: #171a21; padding: 32px; height: 100vh; display: flex; align-items: center; font-family:'Orbitron', sans-serif">
     <div class="card-wrapper w-100">
         <div class="row align-items-center">
             <div class="col-12 col-lg-6" style="padding: 32px;">
@@ -9,19 +9,19 @@
             </div>
             <div class="col-12 col-lg" style="padding: 32px;">
                 <div class="text-box">
-                    <h5 class="mbr-title mbr-fonts-style display-2" style="color: white;">
+                    <h5 class="mbr-title mbr-fonts-style display-2" style="color: white; font-family:'Orbitron', sans-serif">
                         <strong>@Model.Name</strong>
                     </h5>
-                    <p class="mbr-text mbr-fonts-style display-7" style="color: white;">
+                    <p class="mbr-text mbr-fonts-style display-7" style="color: white; font-family:'Orbitron', sans-serif">
                         @Model.Detail
                     </p>
                     <div class="cost">
-                        <span class="currentcost mbr-fonts-style pr-2 display-2" style="color: white;">@Model.Price.ToString("c")</span>
+                        <span class="currentcost mbr-fonts-style pr-2 display-2" style="color: white; font-family:'Orbitron', sans-serif">@Model.Price.ToString("c")</span>
                     </div>
                     <div class="mbr-section-btn pt-3">
                         <a asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-pId="@Model.Id"
-                           class="btn btn-primary display-4">
-                            <span class="mbrib-cart-add mbr-iconfont mbr-iconfont-btn"></span> Thêm Giỏ Hàng
+                           class="btn btn-primary display-4" style="background-color: black !important; color: white !important; font-family:'Orbitron', sans-serif; border-radius: 50px; border: 1px solid aqua !important;">
+                            <span class="mbrib-cart-add mbr-iconfont mbr-iconfont-btn"> Thêm Giỏ Hàng</span>
                         </a>
                     </div>
                 </div>

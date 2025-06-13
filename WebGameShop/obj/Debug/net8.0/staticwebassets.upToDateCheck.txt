@@ -6,6 +6,12 @@ wwwroot\assets\bootstrap\js\bootstrap.bundle.min.js
 wwwroot\assets\dropdown\css\style.css
 wwwroot\assets\dropdown\js\navbar-dropdown.js
 wwwroot\assets\formoid\formoid.min.js
+wwwroot\assets\images\backmythwukong2.mp4
+wwwroot\assets\images\backmythwukong4.mp4
+wwwroot\assets\images\backmythwukong5.mp4
+wwwroot\assets\images\backmythwukong6.mp4
+wwwroot\assets\images\backmythwukong7.mp4
+wwwroot\assets\images\backmythwukong8.mp4
 wwwroot\assets\images\banner.jpg
 wwwroot\assets\images\banner2.jpg
 wwwroot\assets\images\blackmythwukong.mp4
@@ -36,6 +42,9 @@ wwwroot\assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.svg
 wwwroot\assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.ttf
 wwwroot\assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.woff
 wwwroot\assets\ytplayer\index.js
+wwwroot\css\custom.css
+wwwroot\css\custombutton.css
+wwwroot\css\customText.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

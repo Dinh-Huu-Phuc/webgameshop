@@ -27,7 +27,11 @@
     <link rel="stylesheet" href="~/assets/dropdown/css/style.css">
     <link rel="stylesheet" href="~/assets/socicon/css/styles.css">
     <link rel="stylesheet" href="~/assets/theme/css/style.css">
+    <link rel="stylesheet" href="~/css/customText.css"/>
     <link rel="stylesheet" href="~/assets/bootstrap/css/animation.css" />
+    <link rel="stylesheet" href="~/css/custom.css"/>
+    <link rel="stylesheet" href="~/css/custombutton.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="preload"
           href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"
@@ -48,7 +52,7 @@
                     <span class="navbar-logo">
                         <a asp-controller="Home" asp-action="Index">
                             <img src="~/assets/images/logo.png" alt="Game Shop"
-                                 style="height: 3rem; border-radius: 20px;">
+                                 style="height: 50px; width: 70px; border-radius: 50px;">
                         </a>
                     </span>
                 </div>
@@ -65,21 +69,23 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent" style="background-color: #171a21">
                     <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true" style="color: white; display: flex; justify-content: center; align-items: center; width: 100%; gap: 32px; margin: 0;">
                         <li class="nav-item">
-                            <a class="nav-link link text-black show display-4" style="color: white !important;"
-                               asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                            <a class="nav-link link text-black show display-4 custom-nav-link" style="color: white !important; font-family: 'Orbitron', sans-serif; gap: 5px; transition: all 0.3s ease; border: 2px solid transparent; padding: 5px 10px;"
+                               asp-controller="Home" asp-action="Index"><i class="fa-solid fa-house"></i> Trang Chủ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link link text-black show display-4" style="color: white !important;"
-                               asp-controller="Product" asp-action="Shop">Shop</a>
+                            <a class="nav-link link text-black show display-4 custom-nav-link" style="color: white !important; font-family: 'Orbitron', sans-serif; gap: 5px; transition: all 0.3s ease; border: 2px solid transparent; padding: 5px 10px;"
+                               asp-controller="Product" asp-action="Shop"><i class="fa-solid fa-cart-shopping"></i> Shop</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link link text-black show display-4" style="color: white !important;"
-                               asp-controller="Contact" asp-action="Index">Liên Hệ</a>
+                            <a class="nav-link link text-black show display-4 custom-nav-link" style="color: white !important; font-family: 'Orbitron', sans-serif; gap: 5px; transition: all 0.3s ease; border: 2px solid transparent; padding: 5px 10px;"
+                               asp-controller="Contact" asp-action="Index"><i class="fa-solid fa-address-card"></i> Liên Hệ</a>
                         </li>
                         <partial name="_LoginPartial"></partial>
                         <li class="nav-item">
-                            <a class="nav-link link text-black show display-4" style="color: white !important;" asp-controller="ShoppingCart" asp-action="Index">
-                                <span class="mobi-mbri mobi-mbri-shopping-bag mbr-iconfont mbr-iconfont-btn"><small style="color: white !important;">(@cartCount)</small></span>
+                            <a class="nav-link link text-black show display-4 custom-nav-link" style="color: white !important; font-family: 'Orbitron', sans-serif; gap: 5px; transition: all 0.3s ease; border: 2px solid transparent; padding: 5px 10px;" asp-controller="ShoppingCart" asp-action="Index">
+                                <span class="mobi-mbri mobi-mbri-shopping-bag mbr-iconfont mbr-iconfont-btn">
+                                    <small style="color: white !important; font-family: 'Orbitron', sans-serif;">(@cartCount)</small>
+                                </span>
                             </a>
                         </li>
                     </ul>
@@ -87,14 +93,27 @@
             </div>
         </nav>
     </section>
+
+    <style>
+        .custom-nav-link {
+            display: inline-block; 
+        }
+
+            .custom-nav-link:hover {
+                background-color: #2F4F4F !important;
+                border: 2px solid #00ffcc !important; 
+                border-radius: 20px; 
+                padding: 5px 10px; 
+            }
+    </style>
     @RenderBody()
-    <section style="background: #171a21; color: #fff; padding: 40px 0 0 0; font-family: 'Segoe UI', Arial, sans-serif;">
+    <section style="background: #171a21; color: #fff; padding: 40px 0 0 0; font-family: 'Orbitron', sans-serif;">
         <div style="max-width:1200px; margin:auto; padding:0 15px;">
             <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #444; padding-bottom: 30px;">
                 <!-- Logo và đăng ký nhận tin -->
-                <div style="flex:1 1 320px; min-width:320px; margin-bottom:30px;">
+                <div style="flex:1 1 320px; min-width:320px; margin-bottom:30px; font-family: 'Orbitron', sans-serif;">
                     <img src="~/assets/images/logo.png" alt="Cosmic Game Universe" style="width:230px; border-radius:16px; display:block; margin-bottom:20px;">
-                    <div>
+                    <div style="font-family: 'Orbitron', sans-serif;">
                         <span style="font-weight:700; font-size:1.2rem; letter-spacing:1px;">ĐĂNG KÝ NHẬN TIN</span>
                         <p style="margin:8px 0 16px 0; color:#b0b8c1;">Nhận thông tin mới nhất từ chúng tôi</p>
                         <form style="display:flex; gap:10px;">
@@ -104,20 +123,20 @@
                     </div>
                 </div>
                 <!-- Về chúng tôi -->
-                <div style="flex:1 1 200px; min-width:180px; margin-bottom:30px;">
+                <div style="flex:1 1 200px; min-width:180px; margin-bottom:30px; font-family: 'Orbitron', sans-serif;">
                     <h4 style="color:#fff; font-size:1.1rem; font-weight:700; margin-bottom:15px; border-bottom:2px solid #e53935; display:inline-block;">VỀ CHÚNG TÔI</h4>
                     <p style="color:#b0b8c1; font-size:0.95rem;">Tần Thủy Hoàng Comic Game Universe là thương hiệu được thành lập vào năm 2025 với tiêu chí chất lượng GAME đặt lên hàng đầu.</p>
                     <div style="margin-top:12px;">
-                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem;"><i class="fab fa-facebook-f"></i> <span style="font-family:Arial;">&#xf09a;</span></a>
-                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem;"><i class="fab fa-twitter"></i> <span style="font-family:Arial;">&#xf099;</span></a>
-                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem;"><i class="fab fa-linkedin-in"></i> <span style="font-family:Arial;">&#xf0e1;</span></a>
-                        <a href="#" style="color:#fff; font-size:1.2rem;"><i class="fab fa-whatsapp"></i> <span style="font-family:Arial;">&#xf232;</span></a>
+                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem; font-family: 'Orbitron', sans-serif;"><i class="fab fa-facebook-f"></i> <span style="font-family:Arial;"></span></a>
+                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem; font-family: 'Orbitron', sans-serif;"><i class="fab fa-twitter"></i> <span style="font-family:Arial;"></span></a>
+                        <a href="#" style="color:#fff; margin-right:10px; font-size:1.2rem; font-family: 'Orbitron', sans-serif;"><i class="fab fa-linkedin-in"></i> <span style="font-family:Arial;"></span></a>
+                        <a href="#" style="color:#fff; font-size:1.2rem; font-family: 'Orbitron', sans-serif;"><i class="fab fa-whatsapp"></i> <span style="font-family:Arial;"></span></a>
                     </div>
                 </div>
                 <!-- Liên kết -->
-                <div style="flex:1 1 160px; min-width:150px; margin-bottom:30px;">
+                <div style="flex:1 1 160px; min-width:150px; margin-bottom:30px; font-family: 'Orbitron', sans-serif;">
                     <h4 style="color:#fff; font-size:1.1rem; font-weight:700; margin-bottom:15px; border-bottom:2px solid #e53935; display:inline-block;">LIÊN KẾT</h4>
-                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem;">
+                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem; font-family: 'Orbitron', sans-serif;">
                         <li style="margin-bottom:7px;">→ Về chúng tôi</li>
                         <li style="margin-bottom:7px;">→ Hoàn Tiền</li>
                         <li style="margin-bottom:7px;">→ Khuyến Mãi</li>
@@ -127,9 +146,9 @@
                     </ul>
                 </div>
                 <!-- Game -->
-                <div style="flex:1 1 140px; min-width:130px; margin-bottom:30px;">
+                <div style="flex:1 1 140px; min-width:130px; margin-bottom:30px; font-family: 'Orbitron', sans-serif;">
                     <h4 style="color:#fff; font-size:1.1rem; font-weight:700; margin-bottom:15px; border-bottom:2px solid #e53935; display:inline-block;">GAME</h4>
-                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem;">
+                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem; font-family: 'Orbitron', sans-serif;">
                         <li style="margin-bottom:7px;">→ Game Hay</li>
                         <li style="margin-bottom:7px;">→ Thịnh Hành</li>
                         <li style="margin-bottom:7px;">→ Bán Chạy</li>
@@ -138,25 +157,25 @@
                     </ul>
                 </div>
                 <!-- Liên hệ -->
-                <div style="flex:1 1 220px; min-width:200px; margin-bottom:30px;">
+                <div style="flex:1 1 220px; min-width:200px; margin-bottom:30px; font-family: 'Orbitron', sans-serif;">
                     <h4 style="color:#fff; font-size:1.1rem; font-weight:700; margin-bottom:15px; border-bottom:2px solid #e53935; display:inline-block;">LIÊN HỆ</h4>
-                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem;">
+                    <ul style="list-style:none; padding:0; margin:0; color:#b0b8c1; font-size:0.95rem; font-family: 'Orbitron', sans-serif;">
                         <li style="margin-bottom:10px;">
-                            <span style="color:#e53935; margin-right:8px;">&#x1F4CD;</span>
+                            <span style="color:#e53935; margin-right:8px;">📍</span>
                             Chung Cư B3 Nguyễn Hoàng<br>Phường 7 Đà Lạt Lâm Đồng
                         </li>
                         <li style="margin-bottom:7px;">
-                            <span style="color:#e53935; margin-right:8px;">&#x260E;</span>
-                            0398 743 229<br>0962 076 749
+                            <span style="color:#e53935; margin-right:8px;">☎ 0398 743 229<br>☎ 0962 076 749</span>
+                            
                         </li>
                         <li style="margin-bottom:7px;">
-                            <span style="color:#e53935; margin-right:8px;">&#x2709;</span>
-                            phucgp74@gmail.com<br>dinhhuuphuc2302@gmail.com
+                            <span style="color:#e53935; margin-right:8px;">✉ phucgp74@gmail.com<br></span>
+                            
                         </li>
                     </ul>
                 </div>
             </div>
-            <div style="text-align:center; color:#b0b8c1; font-size:0.98rem; padding:20px 0 10px 0;">
+            <div style="text-align:center; color:#b0b8c1; font-size:0.98rem; padding:20px 0 10px 0; font-family: 'Orbitron', sans-serif;">
                 © Copyright 2025 Tân Thùy Hoàng | Tần Thủy Hoàng Cosmic Game Universe
             </div>
         </div>
