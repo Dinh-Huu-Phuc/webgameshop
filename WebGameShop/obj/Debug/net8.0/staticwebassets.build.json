@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pvp0Zv4DSNaS18S3EQ/uePr6KjDDxZ3NY6CTJl9uTsY=",
+  "Hash": "m/xBl7AviUvBJ1eL91aD2QpUVC1734NYyOoNoSYJ24U=",
   "Source": "WebGameShop",
   "BasePath": "_content/WebGameShop",
   "Mode": "Default",
@@ -1487,6 +1487,48 @@
       "OriginalItemSpec": "wwwroot\\assets\\formoid\\formoid.min.js"
     },
     {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "assets/images/anime#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ptwjsvfl16",
+      "Integrity": "7dR7rXzWBK4J+cs+oimIyM7G+dMy5PrCLVzENw1u+sY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\anime.mp4"
+    },
+    {
+      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
+      "SourceId": "WebGameShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "BasePath": "_content/WebGameShop",
+      "RelativePath": "assets/images/anime2#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i5q0y8qm5h",
+      "Integrity": "mtlIgfMggtDNd8fMwy5Mc5sh/W91kBLekSVS5gcRjow=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\anime2.mp4"
+    },
+    {
       "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
@@ -2278,8 +2320,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6kqif1pa0v",
-      "Integrity": "CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA=",
+      "Fingerprint": "6yottvx0eb",
+      "Integrity": "jkxR1b3mUs80vsTF0shVD6dlN9XgGoRFNHybQgbC2NI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\custombutton.css"
@@ -2299,8 +2341,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3r8b2a0bt1",
-      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "Fingerprint": "io3qrwuw21",
+      "Integrity": "IvB8E9FO2iNyPE2twP3TC+fKFK60zVgwHXoA/cZmtBE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\customText.css"
@@ -4220,6 +4262,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-O+Miv9TZB6evudFK4CE8OrBlmIe78pXJqouSCpN3yc0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/anime.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20559650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7dR7rXzWBK4J+cs+oimIyM7G+dMy5PrCLVzENw1u+sY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 04:07:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dR7rXzWBK4J+cs+oimIyM7G+dMy5PrCLVzENw1u+sY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/anime.ptwjsvfl16.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20559650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7dR7rXzWBK4J+cs+oimIyM7G+dMy5PrCLVzENw1u+sY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 04:07:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ptwjsvfl16"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/anime.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dR7rXzWBK4J+cs+oimIyM7G+dMy5PrCLVzENw1u+sY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/anime2.i5q0y8qm5h.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2658737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mtlIgfMggtDNd8fMwy5Mc5sh/W91kBLekSVS5gcRjow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 12:27:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5q0y8qm5h"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/anime2.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mtlIgfMggtDNd8fMwy5Mc5sh/W91kBLekSVS5gcRjow="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/anime2.mp4",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2658737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mtlIgfMggtDNd8fMwy5Mc5sh/W91kBLekSVS5gcRjow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 12:27:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mtlIgfMggtDNd8fMwy5Mc5sh/W91kBLekSVS5gcRjow="
         }
       ]
     },
@@ -7258,7 +7464,7 @@
       ]
     },
     {
-      "Route": "css/custombutton.6kqif1pa0v.css",
+      "Route": "css/custombutton.6yottvx0eb.css",
       "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7268,7 +7474,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1835"
+          "Value": "1832"
         },
         {
           "Name": "Content-Type",
@@ -7276,11 +7482,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA=\""
+          "Value": "\"jkxR1b3mUs80vsTF0shVD6dlN9XgGoRFNHybQgbC2NI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 13:13:05 GMT"
+          "Value": "Fri, 13 Jun 2025 13:31:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7290,7 +7496,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6kqif1pa0v"
+          "Value": "6yottvx0eb"
         },
         {
           "Name": "label",
@@ -7298,7 +7504,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA="
+          "Value": "sha256-jkxR1b3mUs80vsTF0shVD6dlN9XgGoRFNHybQgbC2NI="
         }
       ]
     },
@@ -7313,7 +7519,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1835"
+          "Value": "1832"
         },
         {
           "Name": "Content-Type",
@@ -7321,11 +7527,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA=\""
+          "Value": "\"jkxR1b3mUs80vsTF0shVD6dlN9XgGoRFNHybQgbC2NI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 13:13:05 GMT"
+          "Value": "Fri, 13 Jun 2025 13:31:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7335,52 +7541,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CobkgRsGkS3kPWNSM8Z5rJhBDu3lq4wJybIaWo7FuHA="
-        }
-      ]
-    },
-    {
-      "Route": "css/customText.3r8b2a0bt1.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 17:33:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
-        },
-        {
-          "Name": "label",
-          "Value": "css/customText.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-jkxR1b3mUs80vsTF0shVD6dlN9XgGoRFNHybQgbC2NI="
         }
       ]
     },
@@ -7395,7 +7556,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3"
+          "Value": "282"
         },
         {
           "Name": "Content-Type",
@@ -7403,11 +7564,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "\"IvB8E9FO2iNyPE2twP3TC+fKFK60zVgwHXoA/cZmtBE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 17:33:13 GMT"
+          "Value": "Wed, 18 Jun 2025 09:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7417,7 +7578,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-IvB8E9FO2iNyPE2twP3TC+fKFK60zVgwHXoA/cZmtBE="
+        }
+      ]
+    },
+    {
+      "Route": "css/customText.io3qrwuw21.css",
+      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IvB8E9FO2iNyPE2twP3TC+fKFK60zVgwHXoA/cZmtBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:50:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "io3qrwuw21"
+        },
+        {
+          "Name": "label",
+          "Value": "css/customText.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IvB8E9FO2iNyPE2twP3TC+fKFK60zVgwHXoA/cZmtBE="
         }
       ]
     },

@@ -141,6 +141,33 @@ namespace WebGameShop.Data
                 Detail = "Đánh giá PlayerUnknown’s Battlegrounds (dành cho PC), Tôi đã trải qua nỗi kinh hoàng thầm lặng trong trận đấu PlayerUnknown BattleGrounds (PUBG) đầu tiên của mình. Trận đấu thứ 2 cũng mang lại cảm giác tương tự. Độ vừa vặn 1/3 cao hơn nhiều so với những trận trước, vì tôi đã thận trọng lái xe đạp cho đến khi chỉ còn lại chưa đến 10 game thủ. Lần tiếp theo, Đọc thêm https://smartgamer.website/playerunknowns-battlegrounds-for-pc-review",
                 ImageUrl = "https://i.pinimg.com/736x/9e/01/b5/9e01b5a0679af689d02213a5c95a5737.jpg",
                 Category = "Sinh Tồn"
+            },
+            new Product
+            {
+                Id = 13,
+                Name = "BowBlitz",
+                Price = 5500,
+                Detail = "BowBlitz là một trò chơi hành động bắn súng góc nhìn thứ nhất hấp dẫn, nơi người chơi nhập vai những xạ thủ tài ba trong một thế giới đầy hiểm họa. Trò chơi nổi bật với các chế độ chơi đa dạng như deathmatch, team battle và các chiến dịch PvE. Với đồ họa sắc nét và cơ chế điều khiển mượt mà, BowBlitz đem đến trải nghiệm căng thẳng và kịch tính, đồng thời yêu cầu người chơi phải kết hợp chiến thuật và phản xạ nhanh để chiến thắng các đối thủ cạnh tranh.",
+                ImageUrl= "https://modhello.com/uploads/2025/4/bowblitz-thumbnail.jpg",
+                Category = "Giải Trí",
+            },
+            new Product
+            {
+                Id = 14,
+                Name = "SHATTERLINE",
+                Price = 10000,
+                Detail = "Shatterline là một game bắn súng FPS độc đáo pha trộn yếu tố hành động và khoa học viễn tưởng. Người chơi sẽ khám phá các bản đồ chiến trường đa dạng, từ các căn cứ bị tấn công đến các môi trường ngoài hành tinh. Với hệ thống vũ khí đa dạng và khả năng tùy biến cao, Shatterline mang lại cảm giác thử thách và thú vị, yêu cầu kỹ năng và chiến thuật cao để vượt qua các trận đấu đầy cạnh tranh. Trò chơi còn nổi bật với các chế độ chơi sáng tạo và đồ họa chất lượng cao.",
+                ImageUrl = "https://cdn1.epicgames.com/spt-assets/0cbc7c03131b479ab1e5ec67f4da4290/shatterline-1ojh6.jpg",
+                Category = "Hành Động",
+            },
+            new Product
+            {
+                Id = 15,
+                Name="Supper Mecha Champions",
+                Price = 3333,
+                Detail = "Super Mecha Champions là một game battle royale kết hợp phong cách robot khổng lồ và hành động nhanh nhạy. Người chơi điều khiển các siêu robot mạnh mẽ trong các trận đấu đầy kịch tính, chiến đấu tại các bản đồ rộng lớn như thành phố rực rỡ hoặc các vùng đất hoang tàn. Với hệ thống nâng cấp và tùy biến robot đa dạng, game mang đến trải nghiệm vừa chiến đấu vừa khám phá thế giới mở rộng lớn, đồng thời yêu cầu kỹ năng phối hợp và phản xạ nhanh để chiến thắng đối thủ trong các cuộc đua sinh tồn này.",
+                ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYfCAqDGhtJKWGf2sBAzrVah4mkWwddOXaA&s",
+                Category = "Sinh Tồn"
             }
             );
         }

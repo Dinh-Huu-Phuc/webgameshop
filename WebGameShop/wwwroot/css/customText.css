@@ -1,1 +1,13 @@
 ﻿
+/* Đảm bảo font Orbitron được tải */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+tr:hover {
+    background: rgba(0, 255, 204, 0.2) !important;
+    transform: scale(1.01);
+}
+
+a.btn:hover {
+    transform: scale(1.1);
+}
+
+

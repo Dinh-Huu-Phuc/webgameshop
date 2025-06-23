@@ -6,6 +6,8 @@ wwwroot\assets\bootstrap\js\bootstrap.bundle.min.js
 wwwroot\assets\dropdown\css\style.css
 wwwroot\assets\dropdown\js\navbar-dropdown.js
 wwwroot\assets\formoid\formoid.min.js
+wwwroot\assets\images\anime.mp4
+wwwroot\assets\images\anime2.mp4
 wwwroot\assets\images\backmythwukong2.mp4
 wwwroot\assets\images\backmythwukong4.mp4
 wwwroot\assets\images\backmythwukong5.mp4

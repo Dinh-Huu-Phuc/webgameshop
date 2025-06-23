@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets\\assets\\formoid\\formoid.min.js"
     },
     {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\anime.mp4"
+    },
+    {
+      "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\anime2.mp4"
+    },
+    {
       "Id": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
       "PackagePath": "staticwebassets\\assets\\images\\backmythwukong2.mp4"
     },

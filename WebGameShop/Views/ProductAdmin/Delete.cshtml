@@ -1,0 +1,90 @@
+﻿@model WebGameShop.Models.Product
+
+@{
+    ViewData["Title"] = "Xóa Sản phẩm";
+}
+
+<!-- Video làm nền toàn trang -->
+<video autoplay muted loop playsinline id="background-video" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1; filter: brightness(0.5); opacity: 1;">
+    <source src="/assets/images/backmythwukong7.mp4" type="video/mp4" />
+    Trình duyệt của bạn không hỗ trợ video.
+</video>
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh; position: relative; z-index: 1;">
+    <h1 style="text-align: center; font-family: 'Orbitron', sans-serif; color: #00ffcc; text-shadow: 0 0 10px #00ffcc, 0 0 20px #ff00ff; font-size: 2.5em; margin-bottom: 20px; background-color: rgba(15, 12, 41, 0.5); backdrop-filter: blur(10px); padding: 10px; border: 2px solid #00ffcc; border-radius: 10px;">Xóa Sản phẩm</h1>
+
+    <h3 style="text-align: center; font-family: 'Orbitron', sans-serif; color: #ff4444; text-shadow: 0 0 5px #ff4444; margin-bottom: 20px;">Bạn có chắc chắn muốn xóa sản phẩm này không?</h3>
+
+    <div style="margin-bottom: 20px;">
+        <h4 style="text-align: center; font-family: 'Orbitron', sans-serif; color: #00ffcc; text-shadow: 0 0 5px #00ffcc; margin-bottom: 10px;">Sản phẩm</h4>
+        <hr style="border: 1px solid #00ffcc; margin-bottom: 20px; width: 50%;" />
+    </div>
+
+    <div style="width: 100%; max-width: 1050px; position: relative; z-index: 1;">
+        <dl class="row" style="background: rgba(15, 12, 41, 0.8); padding: 20px; border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 20px #00ffcc;">
+            <dt class="col-sm-2" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc; font-weight: bold;">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-10" style="color: #fff; font-family: 'Orbitron', sans-serif;">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-2" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc; font-weight: bold;">
+                @Html.DisplayNameFor(model => model.Detail)
+            </dt>
+            <dd class="col-sm-10" style="color: #fff; font-family: 'Orbitron', sans-serif;">
+                @Html.DisplayFor(model => model.Detail)
+            </dd>
+            <dt class="col-sm-2" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc; font-weight: bold;">
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </dt>
+            <dd class="col-sm-10" style="color: #fff; font-family: 'Orbitron', sans-serif; text-align: center;">
+                <img src="@Model.ImageUrl" alt="Product Image" style="max-width: 150px; height: auto; border: 2px solid #00ffcc; border-radius: 5px;" class="img-thumbnail" />
+            </dd>
+            <dt class="col-sm-2" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc; font-weight: bold;">
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd class="col-sm-10" style="color: #fff; font-family: 'Orbitron', sans-serif;">
+                @Model.Price.ToString("N0") VNĐ
+            </dd>
+            <dt class="col-sm-2" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc; font-weight: bold;">
+                @Html.DisplayNameFor(model => model.IsTrendingProduct)
+            </dt>
+            <dd class="col-sm-10" style="color: #fff; font-family: 'Orbitron', sans-serif;">
+                @Html.DisplayFor(model => model.IsTrendingProduct)
+            </dd>
+            <dt class="col-sm-2" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc; font-weight: bold;">
+                @Html.DisplayNameFor(model => model.Category)
+            </dt>
+            <dd class="col-sm-10" style="color: #fff; font-family: 'Orbitron', sans-serif;">
+                @Html.DisplayFor(model => model.Category)
+            </dd>
+        </dl>
+    </div>
+
+    <div style="margin-top: 20px; text-align: center; position: relative; z-index: 1;">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <input type="submit" value="Xóa" class="btn btn-danger" style="background: #f44336; border: none; padding: 10px 20px; font-family: 'Orbitron', sans-serif; font-size: 1.1em; border-radius: 20px; color: #fff; box-shadow: 0 0 15px #ff4444; transition: transform 0.3s ease; margin-right: 20px; text-align:center;" />
+        </form>
+        <a asp-action="Index" class="btn btn-secondary" style="background: #444; border: none; padding: 10px 20px; font-family: 'Orbitron', sans-serif; font-size: 1.1em; border-radius: 20px; color: #fff; transition: transform 0.3s ease;">Quay lại danh sách</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    /* Đảm bảo font Orbitron được tải */
+    
+    .btn:hover {
+        transform: scale(1.1);
+    }
+
+    #background-video {
+        /* Thêm fallback nếu video không tải */
+        background: #0f0c29; /* Màu nền mặc định nếu video lỗi */
+    }
+</style>

@@ -42,16 +42,16 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%) scale(0);
-        background: rgba(23, 26, 33, 0.1); 
+        background: rgba(23, 26, 33, 0.1);
         padding: 20px;
-        border-radius: 10px; 
+        border-radius: 10px;
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
         z-index: 1001;
         flex-direction: column;
         gap: 10px;
         width: 300px;
         text-align: center;
-        backdrop-filter: blur(5px); 
+        backdrop-filter: blur(5px);
     }
 
         .custom-modal.show {
@@ -62,10 +62,10 @@
         .custom-modal a {
             display: block;
             padding: 10px 20px;
-            color: white !important; 
-            background: black; 
+            color: white !important;
+            background: black;
             text-decoration: none;
-            border-radius: 50px; 
+            border-radius: 50px;
             font-family: 'Orbitron', sans-serif;
             font-size: 18px;
             transition: background 0.3s;
@@ -99,8 +99,7 @@
         <li class="nav-item dropdown">
             <a class="nav-link" style="font-family: 'Orbitron', sans-serif;"
                onmouseenter="showModal()" onmouseleave="delayHideModal()">
-                Xin Chào @(user.UserName)
-                <span class="mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn"></span>
+                Xin Chào @(user?.UserName ?? "User") <span class="mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn"></span>
             </a>
         </li>
     }
@@ -115,11 +114,14 @@
     }
 </ul>
 
-<!-- Modal -->
 <div class="modal-overlay" id="modalOverlay" onmouseenter="clearHideTimeout()" onmouseleave="delayHideModal()" style="font-family:'Orbitron', sans-serif;"></div>
 <div class="custom-modal" id="customModal" onmouseenter="clearHideTimeout()" onmouseleave="delayHideModal()" style="font-family:'Orbitron', sans-serif;">
     @if (SignInManager.IsSignedIn(User))
     {
+        @if (User.IsInRole("Admin"))
+        {
+            <a asp-area="" asp-controller="ProductAdmin" asp-action="Index">Quản lý Sản phẩm</a>
+        }
         <a asp-area="Identity" asp-page="/Account/Logout">Đăng Xuất</a>
     }
     else

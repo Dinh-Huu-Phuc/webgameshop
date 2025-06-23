@@ -3,52 +3,64 @@
   "WorkspaceRootPath": "H:\\WebGameShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\wwwroot\\css\\custombutton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\wwwroot\\css\\custombutton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\wwwroot\\css\\customtext.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\wwwroot\\css\\customtext.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\orders\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\orders\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\productadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\productadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\productadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\productadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\productadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\productadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\productadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\productadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -63,16 +75,12 @@
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\data\\webgameshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\migrations\\20250613074120_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\migrations\\20250613074120_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,12 +91,74 @@
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\productadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\productadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092831_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092522_addUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\wwwroot\\css\\customtext.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\wwwroot\\css\\customtext.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\orders\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\orders\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\wwwroot\\css\\custombutton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\wwwroot\\css\\custombutton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -111,10 +181,6 @@
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -127,32 +193,8 @@
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,32 +205,8 @@
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\models\\interface\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\migrations\\20250611173230_addgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\migrations\\20250611173230_addgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\models\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -207,16 +225,8 @@
       "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\models\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\migrations\\20250611173943_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\migrations\\20250611173943_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\migrations\\20250612171259_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\migrations\\20250612171259_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\migrations\\20250613074803_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\migrations\\20250613074803_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|h:\\webgameshop\\webgameshop\\migrations\\20250623094515_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA715DB-F561-4C70-BA7C-0A3A60B3C848}|WebGameShop\\WebGameShop.csproj|solutionrelative:webgameshop\\migrations\\20250623094515_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -226,7 +236,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -243,261 +253,235 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "WebGameShop\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:23:55.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:42:49.013Z",
-              "EditorCaption": ""
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "WebGameShop\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:13:05.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "custom.css",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
-              "RelativeDocumentMoniker": "WebGameShop\\wwwroot\\css\\custom.css",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
-              "RelativeToolTip": "WebGameShop\\wwwroot\\css\\custom.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-12T16:19:03.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "custombutton.css",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
-              "RelativeDocumentMoniker": "WebGameShop\\wwwroot\\css\\custombutton.css",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
-              "RelativeToolTip": "WebGameShop\\wwwroot\\css\\custombutton.css",
-              "ViewState": "AgIAADoAAAAAAAAAAAAIwE0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-13T11:32:51.549Z",
-              "EditorCaption": ""
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\ProductAdmin\\Create.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Create.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\ProductAdmin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T09:19:28.457Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "customText.css",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
-              "RelativeDocumentMoniker": "WebGameShop\\wwwroot\\css\\customText.css",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
-              "RelativeToolTip": "WebGameShop\\wwwroot\\css\\customText.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-12T17:31:26.346Z",
-              "EditorCaption": ""
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\ProductAdmin\\Delete.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Delete.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\ProductAdmin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T09:20:43.614Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAABmAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\ProductAdmin\\Details.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Details.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\ProductAdmin\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAFQAAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:42:36.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T09:21:13.816Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ResendEmailConfirmation.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\ProductAdmin\\Edit.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Edit.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\ProductAdmin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T07:17:13.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T09:19:53.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CheckoutComplete.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Orders\\CheckoutComplete.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Views\\Orders\\CheckoutComplete.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Orders\\CheckoutComplete.cshtml",
-              "RelativeToolTip": "WebGameShop\\Views\\Orders\\CheckoutComplete.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:22:30.298Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Program.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Program.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Program.cs",
+              "RelativeToolTip": "WebGameShop\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAIAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:57:23.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebGameShop\\Views\\Home\\Index.cshtml",
               "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebGameShop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAtwC0AAAB/AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-11T17:33:35.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\ProductController.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebGameShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:14:56.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductAdminController.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\ProductAdminController.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\ProductAdminController.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\ProductAdminController.cs",
+              "RelativeToolTip": "WebGameShop\\Controllers\\ProductAdminController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv54AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:16:31.961Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "WebGameShop\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:13:45.451Z",
-              "EditorCaption": ""
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\OrdersController.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebGameShop\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:16:53.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebGameShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAswJQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:34:10.803Z",
-              "EditorCaption": ""
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\HomeController.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebGameShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:12:14.708Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\ContactController.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "WebGameShop\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:23:11.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_Product.cshtml",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_Product.cshtml",
               "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\_Product.cshtml",
               "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_Product.cshtml",
               "RelativeToolTip": "WebGameShop\\Views\\Shared\\_Product.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:35:48.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T17:35:48.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:53:37.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Product\\Shop.cshtml",
               "RelativeDocumentMoniker": "WebGameShop\\Views\\Product\\Shop.cshtml",
               "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Product\\Shop.cshtml",
               "RelativeToolTip": "WebGameShop\\Views\\Product\\Shop.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:15:35.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Models\\Product.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\Product.cs",
-              "RelativeToolTip": "WebGameShop\\Models\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:00:57.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T17:15:35.441Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "WebGameShopDBContext.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Data\\WebGameShopDBContext.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Data\\WebGameShopDBContext.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Data\\WebGameShopDBContext.cs",
-              "RelativeToolTip": "WebGameShop\\Data\\WebGameShopDBContext.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwJQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:58:14.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Product\\Detail.cshtml",
               "RelativeDocumentMoniker": "WebGameShop\\Views\\Product\\Detail.cshtml",
               "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Product\\Detail.cshtml",
               "RelativeToolTip": "WebGameShop\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-11T17:16:17.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "20250613074803_addCategory.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250613074803_addCategory.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Migrations\\20250613074803_addCategory.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250613074803_addCategory.cs",
-              "RelativeToolTip": "WebGameShop\\Migrations\\20250613074803_addCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T07:48:03.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Models\\OrderDetail.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\OrderDetail.cs",
-              "RelativeToolTip": "WebGameShop\\Models\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:02:32.323Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "20250613074120_Category.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250613074120_Category.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Migrations\\20250613074120_Category.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250613074120_Category.cs",
-              "RelativeToolTip": "WebGameShop\\Migrations\\20250613074120_Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "WebGameShopDBContext.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Data\\WebGameShopDBContext.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Data\\WebGameShopDBContext.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Data\\WebGameShopDBContext.cs",
+              "RelativeToolTip": "WebGameShop\\Data\\WebGameShopDBContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T07:41:20.544Z"
+              "WhenOpened": "2025-06-11T16:58:14.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ShoppingcartItem.cs",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\ShoppingcartItem.cs",
               "RelativeDocumentMoniker": "WebGameShop\\Models\\ShoppingcartItem.cs",
               "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\ShoppingcartItem.cs",
               "RelativeToolTip": "WebGameShop\\Models\\ShoppingcartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T17:01:38.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Models\\Product.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\Product.cs",
+              "RelativeToolTip": "WebGameShop\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:18:10.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Contact.cs",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "WebGameShop\\Models\\Contact.cs",
@@ -509,295 +493,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
+              "Title": "20250623092831_update.cs",
+              "DocumentMoniker": "H:\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092831_update.cs",
+              "RelativeDocumentMoniker": "..\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092831_update.cs",
+              "ToolTip": "H:\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092831_update.cs",
+              "RelativeToolTip": "..\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092831_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:28:31.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Order.cs",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Order.cs",
               "RelativeDocumentMoniker": "WebGameShop\\Models\\Order.cs",
               "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\Order.cs",
               "RelativeToolTip": "WebGameShop\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T17:02:10.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WebGameShop\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAF8AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:43:44.465Z"
+              "DocumentIndex": 18,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Models\\OrderDetail.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "WebGameShop\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:02:32.323Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "WebGameShop\\ScaffoldingReadMe.txt",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "WebGameShop\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-13T06:39:58.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAACyAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\ProductAdmin\\Index.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\ProductAdmin\\Index.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\ProductAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAD+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T06:39:58.329Z"
+              "WhenOpened": "2025-06-23T09:01:45.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ResendEmailConfirmation.cshtml.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "DocumentIndex": 56,
+              "Title": "20250623094515_add.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250623094515_add.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Migrations\\20250623094515_add.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250623094515_add.cs",
+              "RelativeToolTip": "WebGameShop\\Migrations\\20250623094515_add.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T07:17:13.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ForgotPasswordConfirmation.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T07:05:06.181Z"
+              "WhenOpened": "2025-06-23T09:45:15.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "ConfirmEmail.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T06:39:58.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebGameShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:34:41.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ForgotPassword.cshtml.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T06:39:58.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ForgotPasswordConfirmation.cshtml.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "Title": "20250623092522_addUser.cs",
+              "DocumentMoniker": "H:\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092522_addUser.cs",
+              "RelativeDocumentMoniker": "..\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092522_addUser.cs",
+              "ToolTip": "H:\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092522_addUser.cs",
+              "RelativeToolTip": "..\\DoAnGameShop\\WebGameShop\\WebGameShop\\WebGameShop\\Migrations\\20250623092522_addUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T07:05:06.049Z"
+              "WhenOpened": "2025-06-23T09:25:22.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ConfirmEmail.cshtml.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T06:39:57.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEkAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T06:31:44.556Z"
+              "WhenOpened": "2025-06-11T17:42:36.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\ProductController.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebGameShop\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:14:56.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:42:57.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "WebGameShop\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:13:05.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WebGameShop\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T03:53:25.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "20250612171259_update.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250612171259_update.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Migrations\\20250612171259_update.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250612171259_update.cs",
-              "RelativeToolTip": "WebGameShop\\Migrations\\20250612171259_update.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T17:12:59.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\appsettings.json",
-              "RelativeDocumentMoniker": "WebGameShop\\appsettings.json",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\appsettings.json",
-              "RelativeToolTip": "WebGameShop\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-11T16:56:51.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\OrdersController.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "WebGameShop\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:16:53.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ShoppingCartRepository.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Services\\ShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Models\\Services\\ShoppingCartRepository.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\Services\\ShoppingCartRepository.cs",
-              "RelativeToolTip": "WebGameShop\\Models\\Services\\ShoppingCartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:07:55.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IShoppingCartRepository.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Interface\\IShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Models\\Interface\\IShoppingCartRepository.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\Interface\\IShoppingCartRepository.cs",
-              "RelativeToolTip": "WebGameShop\\Models\\Interface\\IShoppingCartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:05:34.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Program.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Program.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Program.cs",
-              "RelativeToolTip": "WebGameShop\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:57:23.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\ContactController.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "WebGameShop\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:23:11.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Orders\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "WebGameShop\\Views\\Orders\\Checkout.cshtml",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Orders\\Checkout.cshtml",
-              "RelativeToolTip": "WebGameShop\\Views\\Orders\\Checkout.cshtml",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAowGkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T17:21:41.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 27,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "WebGameShop\\Views\\Home\\Privacy.cshtml",
@@ -809,7 +589,295 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T06:31:44.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T17:43:44.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T17:34:10.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Orders\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\Orders\\Checkout.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Orders\\Checkout.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\Orders\\Checkout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T17:21:41.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T17:42:49.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T17:42:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T17:23:55.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "customText.css",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+              "RelativeDocumentMoniker": "WebGameShop\\wwwroot\\css\\customText.css",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+              "RelativeToolTip": "WebGameShop\\wwwroot\\css\\customText.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-12T17:31:26.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\appsettings.json",
+              "RelativeDocumentMoniker": "WebGameShop\\appsettings.json",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\appsettings.json",
+              "RelativeToolTip": "WebGameShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T16:56:51.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Orders\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\Orders\\CheckoutComplete.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Orders\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\Orders\\CheckoutComplete.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T17:22:30.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T06:39:58.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "custombutton.css",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+              "RelativeDocumentMoniker": "WebGameShop\\wwwroot\\css\\custombutton.css",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+              "RelativeToolTip": "WebGameShop\\wwwroot\\css\\custombutton.css",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwE0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-13T11:32:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "custom.css",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "WebGameShop\\wwwroot\\css\\custom.css",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "WebGameShop\\wwwroot\\css\\custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-12T16:19:03.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebGameShop\\ScaffoldingReadMe.txt",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebGameShop\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T06:39:58.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:17:13.04Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 44,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T07:05:06.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T06:39:58.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T17:34:41.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:39:58.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:05:06.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "WebGameShop\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:39:57.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebGameShop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebGameShop\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T03:53:25.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Services\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Models\\Services\\ShoppingCartRepository.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\Services\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "WebGameShop\\Models\\Services\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:07:55.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Interface\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "WebGameShop\\Models\\Interface\\IShoppingCartRepository.cs",
+              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Models\\Interface\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "WebGameShop\\Models\\Interface\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:05:34.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "WebGameShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -821,43 +889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "20250611173943_Addidentity.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250611173943_Addidentity.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Migrations\\20250611173943_Addidentity.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250611173943_Addidentity.cs",
-              "RelativeToolTip": "WebGameShop\\Migrations\\20250611173943_Addidentity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:39:43.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Controllers\\HomeController.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebGameShop\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:12:14.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "20250611173230_addgame.cs",
-              "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250611173230_addgame.cs",
-              "RelativeDocumentMoniker": "WebGameShop\\Migrations\\20250611173230_addgame.cs",
-              "ToolTip": "H:\\WebGameShop\\WebGameShop\\Migrations\\20250611173230_addgame.cs",
-              "RelativeToolTip": "WebGameShop\\Migrations\\20250611173230_addgame.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:32:31.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 53,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Services\\ProductRepository.cs",
               "RelativeDocumentMoniker": "WebGameShop\\Models\\Services\\ProductRepository.cs",
@@ -869,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 52,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Services\\OrderRepository.cs",
               "RelativeDocumentMoniker": "WebGameShop\\Models\\Services\\OrderRepository.cs",
@@ -881,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 54,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Interface\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "WebGameShop\\Models\\Interface\\IOrderRepository.cs",
@@ -893,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "H:\\WebGameShop\\WebGameShop\\Models\\Interface\\IProductRepository.cs",
               "RelativeDocumentMoniker": "WebGameShop\\Models\\Interface\\IProductRepository.cs",

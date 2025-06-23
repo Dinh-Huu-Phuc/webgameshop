@@ -15,17 +15,33 @@
      style="position: relative; overflow: hidden; width: 100vw; height: 100vh; font-family: 'Orbitron', sans-serif;">
 
     <!-- Video nền -->
-    <video autoplay loop playsinline
+    <video autoplay muted loop playsinline
            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
-        <source src="/assets/images/backmythwukong8.mp4" type="video/mp4" />
+        <source src="/assets/images/anime.mp4" type="video/mp4" />
     </video>
 
     <div class="col-md-4">
         <form id="account" method="post"
               style="background: rgba(255, 255, 255, 0.25); backdrop-filter: blur(8px); padding: 32px; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
 
-            <h1 style="text-align: center; color: black; font-weight: bold; margin-bottom: 16px;">Đăng Nhập</h1>
-            <h2 style="text-align: center; color: #000; font-size: 20px; margin-bottom: 24px;">Sử dụng tài khoản đã đăng ký để đăng nhập</h2>
+            <h1 style="text-align: center; color: #000; font-weight: bold; margin-bottom: 16px;
+                    background: linear-gradient(90deg, #171a21, #171a21, #171a21);
+                    -webkit-background-clip: text;
+                     background-clip: text;
+                     color: transparent;
+                     text-shadow: 0 0 1px #171a21;
+                     font-family: 'Orbitron', sans-serif;">
+                Đăng Nhập
+            </h1>
+            <h2 style="text-align: center; color: #000; font-weight: bold; margin-bottom: 10px;
+                    background: linear-gradient(90deg, #171a21, #171a21, #171a21);
+                    -webkit-background-clip: text;
+                     background-clip: text;
+                     color: transparent;
+                     text-shadow: 0 0 1px #171a21;
+                     font-family: 'Orbitron', sans-serif; font-size: 15px;">
+                Sử dụng tài khoản đã đăng ký <br /> để đăng nhập <br />Chúc Bạn Mua Hàng Vui Vẻ ❤️
+            </h2>
             <hr style="background: #000;" />
 
             <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
@@ -33,7 +49,7 @@
             <div class="form-floating mb-3">
                 <input asp-for="Input.Email" class="form-control"
                        autocomplete="username" aria-required="true" placeholder="name@example.com"
-                       style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; border-radius: 50px;" />
+                       style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; border-radius: 20px;" />
                 <label asp-for="Input.Email">Email</label>
                 <span asp-validation-for="Input.Email" class="text-danger"></span>
             </div>
@@ -41,7 +57,7 @@
             <div class="form-floating mb-3">
                 <input asp-for="Input.Password" class="form-control"
                        autocomplete="current-password" aria-required="true" placeholder="Nhập Mật Khẩu"
-                       style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; border-radius: 50px;" />
+                       style="background: rgba(255,255,255,0.3); border: 1px solid rgba(255,255,255,0.4); color: #000; border-radius: 20px;" />
                 <label asp-for="Input.Password">Mật Khẩu</label>
                 <span asp-validation-for="Input.Password" class="text-danger"></span>
             </div>
@@ -55,7 +71,7 @@
 
             <div>
                 <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary"
-                        style="background-color: #171a21 !important; border-radius: 50px;">
+                        style="background-color: #171a21 !important; border-radius: 20px; border: 1px solid aqua !important;">
                     <span style=""> Đăng Nhập</span>
                 </button>
             </div>

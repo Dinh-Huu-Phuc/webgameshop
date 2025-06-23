@@ -1,0 +1,101 @@
+﻿@model IEnumerable<WebGameShop.Models.Product>
+
+@{
+    ViewData["Title"] = "Quản lý Sản phẩm";
+}
+
+<!-- Video làm nền toàn trang -->
+<video autoplay muted loop playsinline style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1; filter: brightness(0.5); opacity: 0.9;">
+    <source src="/assets/images/backmythwukong7.mp4" type="video/mp4" />
+    <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" /> <!-- Fallback -->
+    Trình duyệt của bạn không hỗ trợ video.
+</video>
+
+
+<h1 style="text-align: center; font-family: 'Orbitron', sans-serif; color: white !important; text-shadow: 0 0 10px #00ffcc; font-size: 2.5em; margin-top: 50px; margin-bottom: 90px; padding: 10px; border-radius: 10px; position: relative; z-index: 1;">
+    Quản lý Sản phẩm
+</h1>
+
+<div style="text-align: center; margin-bottom: 20px; position: relative; z-index: 1;">
+    <a asp-action="Create" class="btn btn-primary" style="background-color: rgba(15, 12, 41, 0.1) !important; backdrop-filter: blur(10px); color: #fff; border: 2px solid aqua !important; padding: 10px 20px; font-family: 'Orbitron', sans-serif; font-size: 1.1em; border-radius: 20px; text-transform: uppercase; box-shadow: 0 0 15px #00ffcc; transition: transform 0.3s ease; text-decoration: none; margin-right: 10px;">
+        Thêm sản phẩm mới
+    </a>
+</div>
+
+<!-- Thanh tìm kiếm -->
+<div style="text-align: start; margin-bottom: 20px; position: relative; z-index: 1;">
+    <input type="text" id="searchInput" placeholder="Tìm theo tên game..." style="padding: 10px; font-family: 'Orbitron', sans-serif; font-size: 1em; border: 2px solid #00ffcc; border-radius: 20px; background: rgba(15, 12, 41, 0.5); color: #fff; width: 500px; box-shadow: 0 0 10px #00ffcc; transition: box-shadow 0.3s ease; outline: none;" onkeyup="filterProducts()" />
+</div>
+
+<table class="table table-striped table-hover" style="width: 100%; max-width: 1600px; margin: 0 auto; font-family: 'Orbitron', sans-serif; color: #fff; background: rgba(15, 12, 41, 0.8); border: 2px solid #00ffcc; border-radius: 10px; overflow: hidden; box-shadow: 0 0 20px #00ffcc; position: relative; z-index: 1;">
+    <thead style="background: linear-gradient(90deg, #302b63, #24243e); padding: 10px;">
+        <tr style="border-bottom: 2px solid #00ffcc;">
+            <th style="padding: 10px; text-align: center; color: #00ffcc; text-shadow: 0 0 5px #00ffcc;">@Html.DisplayNameFor(model => model.Name)</th>
+            <th style="padding: 10px; text-align: center; color: #00ffcc; text-shadow: 0 0 5px #00ffcc;">@Html.DisplayNameFor(model => model.Detail)</th>
+            <th style="padding: 10px; text-align: center; color: #00ffcc; text-shadow: 0 0 5px #00ffcc;">@Html.DisplayNameFor(model => model.ImageUrl)</th>
+            <th style="padding: 10px; text-align: center; color: #00ffcc; text-shadow: 0 0 5px #00ffcc;">@Html.DisplayNameFor(model => model.Price)</th>
+            <th style="padding: 10px; text-align: center; color: #00ffcc; text-shadow: 0 0 5px #00ffcc;">@Html.DisplayNameFor(model => model.IsTrendingProduct)</th>
+            <th style="padding: 10px; text-align: center; color: #00ffcc; text-shadow: 0 0 5px #00ffcc;">@Html.DisplayNameFor(model => model.Category)</th>
+            <th style="padding: 10px; text-align: center; color: #00ffcc; text-shadow: 0 0 5px #00ffcc;">Hành động</th>
+        </tr>
+    </thead>
+    <tbody id="productTable">
+        @foreach (var item in Model)
+        {
+            <tr style="border-bottom: 1px solid #00ffcc; transition: background-color 0.3s ease;" data-name="@item.Name?.ToLower()">
+                <td style="padding: 10px; text-align: center; color: #fff; background: rgba(0, 0, 0, 0.3);">@Html.DisplayFor(modelItem => item.Name)</td>
+                <td style="padding: 10px; text-align: center; color: #fff; background: rgba(0, 0, 0, 0.3);">@(item.Detail != null && item.Detail.Length > 70 ? item.Detail.Substring(0, 70) + "..." : item.Detail)</td>
+                <td style="padding: 10px; text-align: center; background: rgba(0, 0, 0, 0.3);">
+                    <img src="@item.ImageUrl" alt="Product Image" style="max-width: 80px; height: auto; border: 2px solid #00ffcc; border-radius: 5px;" class="img-thumbnail" />
+                </td>
+                <td style="padding: 10px; text-align: center; color: #fff; background: rgba(0, 0, 0, 0.3);">@item.Price.ToString("N0") VNĐ</td>
+                <td style="padding: 10px; text-align: center; color: #fff; background: rgba(0, 0, 0, 0.3);">@Html.DisplayFor(modelItem => item.IsTrendingProduct)</td>
+                <td style="padding: 10px; text-align: center; color: #fff; background: rgba(0, 0, 0, 0.3);">@Html.DisplayFor(modelItem => item.Category)</td>
+                <td style="padding: 10px; text-align: center; background: rgba(0, 0, 0, 0.3);">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning" style="background: #ffeb3b; color: #000; border: none; padding: 5px 10px; border-radius: 15px; margin-right: 5px; transition: transform 0.3s ease;">Sửa</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info" style="background: #2196f3; color: #fff; border: none; padding: 5px 10px; border-radius: 15px; margin-right: 5px; transition: transform 0.3s ease;">Chi tiết</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger" style="background: #f44336; color: #fff; border: none; padding: 5px 10px; border-radius: 15px; transition: transform 0.3s ease;">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    /* Đảm bảo font Orbitron được tải */
+    
+
+    tr:hover {
+        background: rgba(0, 255, 204, 0.2) !important;
+        transform: scale(1.01);
+    }
+
+    a.btn:hover {
+        transform: scale(1.1);
+    }
+
+    #background-video {
+        /* Thêm fallback nếu video không tải */
+        background: #0f0c29; /* Màu nền mặc định nếu video lỗi */
+    }
+
+    #searchInput:focus {
+        box-shadow: 0 0 15px #00ffcc;
+    }
+</style>
+
+<script>
+    function filterProducts() {
+        var input = document.getElementById("searchInput").value.toLowerCase();
+        var rows = document.getElementById("productTable").getElementsByTagName("tr");
+
+        for (var i = 0; i < rows.length; i++) {
+            var name = rows[i].getAttribute("data-name");
+            if (name && name.includes(input)) {
+                rows[i].style.display = "";
+            } else {
+                rows[i].style.display = "none";
+            }
+        }
+    }
+</script>

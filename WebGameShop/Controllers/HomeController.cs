@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WebGameShop.Models;
 using WebGameShop.Models.Interface;
@@ -14,7 +14,14 @@ namespace WebGameShop.Controllers
         }
         public IActionResult Index()
         {
-            return View(productRepository.GetAllProducts());
+            var products = productRepository.GetAllProducts()
+                        .OrderByDescending(p => p.Id)
+                        .Take(6)
+                        .ToList();
+            return View(products);
         }
+
+
+
     }
 }

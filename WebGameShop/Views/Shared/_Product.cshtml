@@ -38,7 +38,7 @@
     function filterProducts(category) {
         const products = document.querySelectorAll('.item.features-image');
         products.forEach(item => {
-            if (category === 'All' || item.getAttribute('data-category') === category) {
+            if (category === 'All' || item.getAttribute('data-category') === category) 
                 item.style.display = 'block';
             } else {
                 item.style.display = 'none';

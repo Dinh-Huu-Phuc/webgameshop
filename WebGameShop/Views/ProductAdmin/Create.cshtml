@@ -1,0 +1,79 @@
+﻿@model WebGameShop.Models.Product
+
+@{
+    ViewData["Title"] = "Thêm Sản phẩm mới";
+}
+
+<!-- Video làm nền toàn trang -->
+<video autoplay muted loop playsinline id="background-video" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1; filter: brightness(0.5); opacity: 0.9;">
+    <source src="/assets/images/backmythwukong7.mp4" type="video/mp4" />
+    Trình duyệt của bạn không hỗ trợ video.
+</video>
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh; position: relative; z-index: 1;">
+    <h1 style="text-align: center; font-family: 'Orbitron', sans-serif; color: #00ffcc; text-shadow: 0 0 10px #00ffcc, 0 0 20px #ff00ff; font-size: 2.5em; margin-bottom: 20px;  padding: 10px; border-radius: 10px;">Thêm Sản phẩm mới</h1>
+
+    <h4 style="text-align: center; font-family: 'Orbitron', sans-serif; color: #00ffcc; text-shadow: 0 0 5px #00ffcc; margin-bottom: 10px;">Sản phẩm</h4>
+    <hr style="border: 1px solid #00ffcc; margin-bottom: 20px; width: 50%;" />
+
+    <div class="row" style="width: 100%; max-width: 600px;">
+        <div class="col-md-6" style="width: 100%;">
+            <form asp-action="Create" style="background: rgba(15, 12, 41, 0.8); padding: 20px; border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 20px #00ffcc;">
+                <div asp-validation-summary="ModelOnly" class="text-danger" style="text-align: center; margin-bottom: 15px;"></div>
+                <div class="form-group mb-3">
+                    <label asp-for="Name" class="control-label" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc;"></label>
+                    <input asp-for="Name" class="form-control" style="background: rgba(255, 255, 255, 0.1); border: 1px solid #00ffcc; color: #fff; border-radius: 5px; padding: 8px;" />
+                    <span asp-validation-for="Name" class="text-danger" style="display: block; text-align: center;"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Detail" class="control-label" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc;"></label>
+                    <textarea asp-for="Detail" class="form-control" rows="5" style="background: rgba(255, 255, 255, 0.1); border: 1px solid #00ffcc; color: #fff; border-radius: 5px; padding: 8px;"></textarea>
+                    <span asp-validation-for="Detail" class="text-danger" style="display: block; text-align: center;"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="ImageUrl" class="control-label" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc;"></label>
+                    <input asp-for="ImageUrl" class="form-control" style="background: rgba(255, 255, 255, 0.1); border: 1px solid #00ffcc; color: #fff; border-radius: 5px; padding: 8px;" />
+                    <span asp-validation-for="ImageUrl" class="text-danger" style="display: block; text-align: center;"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Price" class="control-label" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc;"></label>
+                    <input asp-for="Price" class="form-control" type="number" step="0.01" style="background: rgba(255, 255, 255, 0.1); border: 1px solid #00ffcc; color: #fff; border-radius: 5px; padding: 8px;" />
+                    <span asp-validation-for="Price" class="text-danger" style="display: block; text-align: center;"></span>
+                </div>
+                <div class="form-group form-check mb-3">
+                    <label class="form-check-label" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc;">
+                        <input class="form-check-input" asp-for="IsTrendingProduct" style="margin-right: 5px;" /> @Html.DisplayNameFor(model => model.IsTrendingProduct)
+                    </label>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Category" class="control-label" style="color: #00ffcc; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 3px #00ffcc;"></label>
+                    <input asp-for="Category" class="form-control" style="background: rgba(255, 255, 255, 0.1); border: 1px solid #00ffcc; color: #fff; border-radius: 5px; padding: 8px;" />
+                    <span asp-validation-for="Category" class="text-danger" style="display: block; text-align: center;"></span>
+                </div>
+                <div class="form-group" style="text-align: center;">
+                    <input type="submit" value="Tạo mới" class="btn btn-primary" style="background: linear-gradient(45deg, #ff00cc, #3333ff); border: none; padding: 10px 20px; font-family: 'Orbitron', sans-serif; font-size: 1.1em; border-radius: 20px; color: #fff; box-shadow: 0 0 15px #00ffcc; transition: transform 0.3s ease; margin-right: 20px;" />
+                    <br />
+                    <a asp-action="Index" class="btn btn-secondary" style="background: #444; border: none; padding: 10px 20px; font-family: 'Orbitron', sans-serif; font-size: 1.1em; border-radius: 20px; color: #fff; transition: transform 0.3s ease;">Quay lại danh sách</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    /* Đảm bảo font Orbitron được tải */
+    .btn:hover {
+        transform: scale(1.1);
+    }
+
+    #background-video {
+        /* Thêm fallback nếu video không tải */
+        background: #171a21; /* Màu nền mặc định nếu video lỗi */
+    }
+</style>

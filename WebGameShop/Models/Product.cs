@@ -1,4 +1,6 @@
-﻿namespace WebGameShop.Models
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace WebGameShop.Models
 {
     public class Product
     {
