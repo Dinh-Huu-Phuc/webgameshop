@@ -5,6 +5,7 @@
     <button class="btn btn-outline-info mx-2" onclick="filterProducts('Sinh Tồn')">Sinh Tồn</button>
     <button class="btn btn-outline-info mx-2" onclick="filterProducts('Chiến Thuật')">Chiến Thuật</button>
     <button class="btn btn-outline-info mx-2" onclick="filterProducts('Giải Trí')">Giải Trí</button>
+    <button class="btn btn-outline-info mx-2" onclick="filterProducts('AAA')">AAA</button>
 </div>
 
 <div class="row mt-4" style="background: #171a21;">
@@ -36,14 +37,13 @@
 
 <script>
     function filterProducts(category) {
-        const products = document.querySelectorAll('.item.features-image');
-        products.forEach(item => {
-            if (category === 'All' || item.getAttribute('data-category') === category) 
-                item.style.display = 'block';
-            } else {
-                item.style.display = 'none';
-            }
-        });
+      const products = document.querySelectorAll('.item.features-image');
+        products.forEach(item =>
+            item.style.display = (category === 'All' || item.getAttribute('data-category') === category)
+                ? 'block'
+                : 'none'
+        );
     }
+
 </script>
 

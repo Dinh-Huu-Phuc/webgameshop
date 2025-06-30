@@ -12,8 +12,8 @@ using WebGameShop.Data;
 namespace WebGameShop.Migrations
 {
     [DbContext(typeof(WebGameShopDBContext))]
-    [Migration("20250614115455_image")]
-    partial class image
+    [Migration("20250624010627_update")]
+    partial class update
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -481,7 +481,7 @@ namespace WebGameShop.Migrations
                             Id = 13,
                             Category = "Giải Trí",
                             Detail = "BowBlitz là một trò chơi hành động bắn súng góc nhìn thứ nhất hấp dẫn, nơi người chơi nhập vai những xạ thủ tài ba trong một thế giới đầy hiểm họa. Trò chơi nổi bật với các chế độ chơi đa dạng như deathmatch, team battle và các chiến dịch PvE. Với đồ họa sắc nét và cơ chế điều khiển mượt mà, BowBlitz đem đến trải nghiệm căng thẳng và kịch tính, đồng thời yêu cầu người chơi phải kết hợp chiến thuật và phản xạ nhanh để chiến thắng các đối thủ cạnh tranh.",
-                            ImageUrl = "https://play-lh.googleusercontent.com/EoMw7zQE1yOFjeqxq-rVoLpqz7Cp-EmT06hP57dVBBeaWYpKSOa1Guj0KoZKvn40tg=w526-h296-rw",
+                            ImageUrl = "https://modhello.com/uploads/2025/4/bowblitz-thumbnail.jpg",
                             IsTrendingProduct = false,
                             Name = "BowBlitz",
                             Price = 5500m

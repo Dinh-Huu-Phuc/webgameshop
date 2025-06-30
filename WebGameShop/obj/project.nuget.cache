@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Lv2CL0B5ac=",
+  "dgSpecHash": "ev+JDAenL7o=",
   "success": true,
-  "projectFilePath": "H:\\WebGameShop\\WebGameShop\\WebGameShop.csproj",
+  "projectFilePath": "D:\\WebGameShop\\WebGameShop\\WebGameShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

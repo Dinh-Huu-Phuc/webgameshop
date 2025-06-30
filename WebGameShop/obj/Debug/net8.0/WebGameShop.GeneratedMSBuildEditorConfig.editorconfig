@@ -17,137 +17,137 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebGameShop
 build_property.RootNamespace = WebGameShop
-build_property.ProjectDir = H:\WebGameShop\WebGameShop\
+build_property.ProjectDir = D:\WebGameShop\WebGameShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = H:\WebGameShop\WebGameShop
+build_property.MSBuildProjectDirectory = D:\WebGameShop\WebGameShop
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/WebGameShop/WebGameShop/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Contact/Index.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Home/Index.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Home/Privacy.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Orders/Checkout.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Orders/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Orders/CheckoutComplete.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Orders/CheckoutComplete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENoZWNrb3V0Q29tcGxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/ProductAdmin/Create.cshtml]
+[D:/WebGameShop/WebGameShop/Views/ProductAdmin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFkbWluXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/ProductAdmin/Delete.cshtml]
+[D:/WebGameShop/WebGameShop/Views/ProductAdmin/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFkbWluXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/ProductAdmin/Details.cshtml]
+[D:/WebGameShop/WebGameShop/Views/ProductAdmin/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFkbWluXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/ProductAdmin/Edit.cshtml]
+[D:/WebGameShop/WebGameShop/Views/ProductAdmin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFkbWluXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/ProductAdmin/Index.cshtml]
+[D:/WebGameShop/WebGameShop/Views/ProductAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Product/Detail.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Product/Shop.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Product/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Shared/Error.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Shared/_LoginPartial.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Shared/_Product.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Shared/_Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/ShoppingCart/Index.cshtml]
+[D:/WebGameShop/WebGameShop/Views/ShoppingCart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/_ViewImports.cshtml]
+[D:/WebGameShop/WebGameShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/_ViewStart.cshtml]
+[D:/WebGameShop/WebGameShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/WebGameShop/WebGameShop/Views/Shared/_Layout.cshtml]
+[D:/WebGameShop/WebGameShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0wlkndfwta

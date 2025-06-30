@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m/xBl7AviUvBJ1eL91aD2QpUVC1734NYyOoNoSYJ24U=",
+  "Hash": "ZZPddAObpz4pn9a9LtMhY9FS4QvGsu1GgweH9ksx46A=",
   "Source": "WebGameShop",
   "BasePath": "_content/WebGameShop",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebGameShop\\wwwroot",
       "Source": "WebGameShop",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebGameShop.styles.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebGameShop.styles.css",
       "SourceId": "WebGameShop",
       "SourceType": "Computed",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "WebGameShop#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "fcy7Wg2kjKgcRUr7ATKXm4+UsiZ+oM21n63h2yq9tSU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebGameShop.styles.css"
+      "OriginalItemSpec": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebGameShop.styles.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css",
       "SourceId": "WebGameShop",
       "SourceType": "Computed",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "WebGameShop#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "fcy7Wg2kjKgcRUr7ATKXm4+UsiZ+oM21n63h2yq9tSU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css"
+      "OriginalItemSpec": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\animation.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\animation.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/bootstrap/css/animation#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\animation.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/bootstrap/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/bootstrap/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/bootstrap/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\css\\style.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/dropdown/css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dropdown\\css\\style.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/dropdown/js/navbar-dropdown#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\formoid\\formoid.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/formoid/formoid.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\formoid\\formoid.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/anime#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\anime.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/anime2#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\anime2.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/backmythwukong2#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong2.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/backmythwukong4#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong4.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/backmythwukong5#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong5.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/backmythwukong6#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong6.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/backmythwukong7#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong7.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/backmythwukong8#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\backmythwukong8.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/banner#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner.jpg"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner2.jpg",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner2.jpg",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/banner2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner2.jpg"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/blackmythwukong#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blackmythwukong.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong1.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong1.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/blackmythwukong1#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blackmythwukong1.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong3.mp4",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong3.mp4",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/blackmythwukong3#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blackmythwukong3.mp4"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\hashes.json",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\hashes.json",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/hashes#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hashes.json"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/mobirise/css/mbr-additional#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\mobirise\\css\\mbr-additional.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/parallax/jarallax#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\parallax\\jarallax.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/parallax/jarallax#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\parallax\\jarallax.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/smoothscroll/smooth-scroll#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\smoothscroll\\smooth-scroll.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\css\\styles.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/socicon/css/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\css\\styles.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.eot"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.svg"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.ttf"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.woff"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.woff2"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\css\\style.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\css\\style.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/theme/css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\theme\\css\\style.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\js\\script.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\js\\script.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/theme/js/script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\theme\\js\\script.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\ytplayer\\index.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\ytplayer\\index.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "assets/ytplayer/index#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ytplayer\\index.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "css/custom#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "css/custombutton#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custombutton.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "css/customText#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\css\\customText.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\favicon.ico",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\favicon.ico",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\js\\site.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\js\\site.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2600,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2621,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2642,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2663,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2684,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2705,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2726,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2747,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2768,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2789,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2831,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2852,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2894,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2915,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2936,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2957,10 +2957,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2978,10 +2978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2999,10 +2999,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -3020,10 +3020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3041,10 +3041,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -3062,10 +3062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3083,10 +3083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3104,10 +3104,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3125,10 +3125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3146,10 +3146,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3167,10 +3167,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3188,10 +3188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3251,10 +3251,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3272,10 +3272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3293,10 +3293,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3314,10 +3314,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3335,10 +3335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -3356,10 +3356,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3377,10 +3377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3398,10 +3398,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3419,10 +3419,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3440,10 +3440,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3461,10 +3461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3482,10 +3482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3503,10 +3503,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3524,10 +3524,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -3545,10 +3545,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3566,10 +3566,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebGameShop",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\WebGameShop\\WebGameShop\\wwwroot\\",
+      "ContentRoot": "D:\\WebGameShop\\WebGameShop\\wwwroot\\",
       "BasePath": "_content/WebGameShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3611,7 +3611,7 @@
   "Endpoints": [
     {
       "Route": "assets/bootstrap/css/animation.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\animation.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\animation.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3648,7 +3648,7 @@
     },
     {
       "Route": "assets/bootstrap/css/animation.x2bhlpt8hq.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\animation.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\animation.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3693,7 +3693,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3730,7 +3730,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap.min.h05jfgqcqm.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3775,7 +3775,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap-grid.min.6kgw83jnx0.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3820,7 +3820,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap-grid.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3857,7 +3857,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap-reboot.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3894,7 +3894,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap-reboot.min.vyr5dwdiv4.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3939,7 +3939,7 @@
     },
     {
       "Route": "assets/bootstrap/js/bootstrap.bundle.min.72xr75apkv.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3984,7 +3984,7 @@
     },
     {
       "Route": "assets/bootstrap/js/bootstrap.bundle.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4021,7 +4021,7 @@
     },
     {
       "Route": "assets/dropdown/css/style.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4058,7 +4058,7 @@
     },
     {
       "Route": "assets/dropdown/css/style.ezw0xklxsa.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4103,7 +4103,7 @@
     },
     {
       "Route": "assets/dropdown/js/navbar-dropdown.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4140,7 +4140,7 @@
     },
     {
       "Route": "assets/dropdown/js/navbar-dropdown.ou1l9jax80.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4185,7 +4185,7 @@
     },
     {
       "Route": "assets/formoid/formoid.min.h1djovafqm.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\formoid\\formoid.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4230,7 +4230,7 @@
     },
     {
       "Route": "assets/formoid/formoid.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\formoid\\formoid.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4267,7 +4267,7 @@
     },
     {
       "Route": "assets/images/anime.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4304,7 +4304,7 @@
     },
     {
       "Route": "assets/images/anime.ptwjsvfl16.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4349,7 +4349,7 @@
     },
     {
       "Route": "assets/images/anime2.i5q0y8qm5h.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4394,7 +4394,7 @@
     },
     {
       "Route": "assets/images/anime2.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\anime2.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4431,7 +4431,7 @@
     },
     {
       "Route": "assets/images/backmythwukong2.ilkm0e9b4p.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4476,7 +4476,7 @@
     },
     {
       "Route": "assets/images/backmythwukong2.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong2.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4513,7 +4513,7 @@
     },
     {
       "Route": "assets/images/backmythwukong4.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4550,7 +4550,7 @@
     },
     {
       "Route": "assets/images/backmythwukong4.tehmnioaj5.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong4.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4595,7 +4595,7 @@
     },
     {
       "Route": "assets/images/backmythwukong5.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4632,7 +4632,7 @@
     },
     {
       "Route": "assets/images/backmythwukong5.os7vzvu2zt.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong5.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4677,7 +4677,7 @@
     },
     {
       "Route": "assets/images/backmythwukong6.4mrjabpgfz.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4722,7 +4722,7 @@
     },
     {
       "Route": "assets/images/backmythwukong6.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong6.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4759,7 +4759,7 @@
     },
     {
       "Route": "assets/images/backmythwukong7.lbnmridoik.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4804,7 +4804,7 @@
     },
     {
       "Route": "assets/images/backmythwukong7.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong7.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4841,7 +4841,7 @@
     },
     {
       "Route": "assets/images/backmythwukong8.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4878,7 +4878,7 @@
     },
     {
       "Route": "assets/images/backmythwukong8.osx1sw1mrd.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\backmythwukong8.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4923,7 +4923,7 @@
     },
     {
       "Route": "assets/images/banner.j8iqrb9ble.jpg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4968,7 +4968,7 @@
     },
     {
       "Route": "assets/images/banner.jpg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5005,7 +5005,7 @@
     },
     {
       "Route": "assets/images/banner2.h6ijbucrop.jpg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner2.jpg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5050,7 +5050,7 @@
     },
     {
       "Route": "assets/images/banner2.jpg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner2.jpg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\banner2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5087,7 +5087,7 @@
     },
     {
       "Route": "assets/images/blackmythwukong.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5124,7 +5124,7 @@
     },
     {
       "Route": "assets/images/blackmythwukong.sp8uyd6mxy.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5169,7 +5169,7 @@
     },
     {
       "Route": "assets/images/blackmythwukong1.hjthwoczxh.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong1.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong1.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5214,7 +5214,7 @@
     },
     {
       "Route": "assets/images/blackmythwukong1.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong1.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong1.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5251,7 +5251,7 @@
     },
     {
       "Route": "assets/images/blackmythwukong3.4iaezwp026.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong3.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong3.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5296,7 +5296,7 @@
     },
     {
       "Route": "assets/images/blackmythwukong3.mp4",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong3.mp4",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\blackmythwukong3.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5333,7 +5333,7 @@
     },
     {
       "Route": "assets/images/hashes.json",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\hashes.json",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\hashes.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5370,7 +5370,7 @@
     },
     {
       "Route": "assets/images/hashes.kcesd5dku3.json",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\hashes.json",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\hashes.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5415,7 +5415,7 @@
     },
     {
       "Route": "assets/images/logo.fiyhi2qi4v.png",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\logo.png",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5460,7 +5460,7 @@
     },
     {
       "Route": "assets/images/logo.png",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\logo.png",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5497,7 +5497,7 @@
     },
     {
       "Route": "assets/mobirise/css/mbr-additional.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5534,7 +5534,7 @@
     },
     {
       "Route": "assets/mobirise/css/mbr-additional.m66qt7ezf6.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5579,7 +5579,7 @@
     },
     {
       "Route": "assets/parallax/jarallax.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5616,7 +5616,7 @@
     },
     {
       "Route": "assets/parallax/jarallax.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5653,7 +5653,7 @@
     },
     {
       "Route": "assets/parallax/jarallax.sfg2i9ym8u.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5698,7 +5698,7 @@
     },
     {
       "Route": "assets/parallax/jarallax.svvhc24haz.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\parallax\\jarallax.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5743,7 +5743,7 @@
     },
     {
       "Route": "assets/smoothscroll/smooth-scroll.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5780,7 +5780,7 @@
     },
     {
       "Route": "assets/smoothscroll/smooth-scroll.xecllo4r1k.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5825,7 +5825,7 @@
     },
     {
       "Route": "assets/socicon/css/styles.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5862,7 +5862,7 @@
     },
     {
       "Route": "assets/socicon/css/styles.q5ohifxaxh.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5907,7 +5907,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.27jk9euy4c.svg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5952,7 +5952,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.eot",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5989,7 +5989,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.ezso41dj61.eot",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6034,7 +6034,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.fra8bms9kq.woff",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6079,7 +6079,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.io54zb58lv.woff2",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6124,7 +6124,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.svg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6161,7 +6161,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.ttf",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6198,7 +6198,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.woff",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6235,7 +6235,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.woff2",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6272,7 +6272,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.z9h5km60p3.ttf",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6317,7 +6317,7 @@
     },
     {
       "Route": "assets/theme/css/style.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\css\\style.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6354,7 +6354,7 @@
     },
     {
       "Route": "assets/theme/css/style.d7i9gkmopj.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\css\\style.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6399,7 +6399,7 @@
     },
     {
       "Route": "assets/theme/js/script.71lwiiseek.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\js\\script.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\js\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6444,7 +6444,7 @@
     },
     {
       "Route": "assets/theme/js/script.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\js\\script.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\theme\\js\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6481,7 +6481,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.5r7bi6t3va.woff",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6526,7 +6526,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6563,7 +6563,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.ct2ra37of6.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6608,7 +6608,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.eot",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6645,7 +6645,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.igwwwv5ift.ttf",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6690,7 +6690,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.jjagmbzy88.eot",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6735,7 +6735,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.krektuu3tu.svg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6780,7 +6780,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.svg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6817,7 +6817,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.ttf",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6854,7 +6854,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.woff",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6891,7 +6891,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.7bx3d641d2.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6936,7 +6936,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.9oset78uoc.woff",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6981,7 +6981,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7018,7 +7018,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.eot",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7055,7 +7055,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.obhog2wled.eot",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7100,7 +7100,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.rpaymgc8wk.ttf",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7145,7 +7145,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.svg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7182,7 +7182,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.ttf",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7219,7 +7219,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.udrxcdyeok.svg",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7264,7 +7264,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.woff",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7301,7 +7301,7 @@
     },
     {
       "Route": "assets/ytplayer/index.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\ytplayer\\index.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\ytplayer\\index.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7338,7 +7338,7 @@
     },
     {
       "Route": "assets/ytplayer/index.p72ml4c0ho.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\ytplayer\\index.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\assets\\ytplayer\\index.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7383,7 +7383,7 @@
     },
     {
       "Route": "css/custom.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7420,7 +7420,7 @@
     },
     {
       "Route": "css/custom.iwezhlwiu2.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custom.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7465,7 +7465,7 @@
     },
     {
       "Route": "css/custombutton.6yottvx0eb.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7510,7 +7510,7 @@
     },
     {
       "Route": "css/custombutton.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\custombutton.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7547,7 +7547,7 @@
     },
     {
       "Route": "css/customText.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7584,7 +7584,7 @@
     },
     {
       "Route": "css/customText.io3qrwuw21.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\customText.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7629,7 +7629,7 @@
     },
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7674,7 +7674,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7711,7 +7711,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7756,7 +7756,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10013,7 +10013,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10050,7 +10050,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10095,7 +10095,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10132,7 +10132,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10177,7 +10177,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10214,7 +10214,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10259,7 +10259,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10296,7 +10296,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10341,7 +10341,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10378,7 +10378,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10423,7 +10423,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10460,7 +10460,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10505,7 +10505,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10542,7 +10542,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10587,7 +10587,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10624,7 +10624,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10669,7 +10669,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10706,7 +10706,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10751,7 +10751,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10796,7 +10796,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10833,7 +10833,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10870,7 +10870,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10915,7 +10915,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10952,7 +10952,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10997,7 +10997,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11034,7 +11034,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11079,7 +11079,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11116,7 +11116,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11161,7 +11161,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11198,7 +11198,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11235,7 +11235,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11272,7 +11272,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11317,7 +11317,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11362,7 +11362,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11407,7 +11407,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11452,7 +11452,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11489,7 +11489,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11534,7 +11534,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11571,7 +11571,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11608,7 +11608,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11645,7 +11645,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11690,7 +11690,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11735,7 +11735,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11780,7 +11780,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11817,7 +11817,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11862,7 +11862,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11899,7 +11899,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11936,7 +11936,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11973,7 +11973,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12018,7 +12018,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12063,7 +12063,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12100,7 +12100,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12145,7 +12145,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12182,7 +12182,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12227,7 +12227,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12264,7 +12264,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12301,7 +12301,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12346,7 +12346,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12391,7 +12391,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12428,7 +12428,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12473,7 +12473,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12510,7 +12510,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12547,7 +12547,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12592,7 +12592,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12629,7 +12629,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12674,7 +12674,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12719,7 +12719,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12756,7 +12756,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12801,7 +12801,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12838,7 +12838,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12883,7 +12883,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12928,7 +12928,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12965,7 +12965,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13010,7 +13010,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13047,7 +13047,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13084,7 +13084,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13129,7 +13129,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13166,7 +13166,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13211,7 +13211,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13248,7 +13248,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13285,7 +13285,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13330,7 +13330,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13375,7 +13375,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13412,7 +13412,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13457,7 +13457,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13494,7 +13494,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13531,7 +13531,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13568,7 +13568,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13613,7 +13613,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13658,7 +13658,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13703,7 +13703,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13740,7 +13740,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13785,7 +13785,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13830,7 +13830,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13867,7 +13867,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13912,7 +13912,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13957,7 +13957,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13994,7 +13994,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14031,7 +14031,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14076,7 +14076,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14113,7 +14113,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14158,7 +14158,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14195,7 +14195,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14240,7 +14240,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14277,7 +14277,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14314,7 +14314,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14359,7 +14359,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14396,7 +14396,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14441,7 +14441,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14478,7 +14478,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14523,7 +14523,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14568,7 +14568,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14605,7 +14605,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14650,7 +14650,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14687,7 +14687,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14732,7 +14732,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14769,7 +14769,7 @@
     },
     {
       "Route": "WebGameShop.bundle.scp.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14806,7 +14806,7 @@
     },
     {
       "Route": "WebGameShop.liesc6j4xr.bundle.scp.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebGameShop.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14851,7 +14851,7 @@
     },
     {
       "Route": "WebGameShop.liesc6j4xr.styles.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebGameShop.styles.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebGameShop.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14896,7 +14896,7 @@
     },
     {
       "Route": "WebGameShop.styles.css",
-      "AssetFile": "H:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebGameShop.styles.css",
+      "AssetFile": "D:\\WebGameShop\\WebGameShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebGameShop.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
